@@ -145,3 +145,14 @@ hr {
 #font-increase {
     font-size: 280%;
 }
+
+/* Our Services Section */
+
+#services {
+    background-image: url('../images/choir\ loft\ 3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
