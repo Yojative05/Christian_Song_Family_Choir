@@ -54,3 +54,21 @@ h1, h2 {
 .active {
     border-bottom: 1px solid blue;
 }
+
+/* choir image */
+
+#choir-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#choir-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/TEEN\ CHOIR.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
