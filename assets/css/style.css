@@ -133,3 +133,12 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
+
+#welcome {
+    text-align: center;
+    margin: 10px 0;
+}
+
+#font-increase {
+    font-size: 280%;
+}
