@@ -347,8 +347,29 @@ footer {
 
     #sign-up {
         width: 100%;
-        height: max-content;
+        height: 600px;
     }
+
+    #left-criterion {
+        width: 100%;
+        text-align: center;
+        margin-left: 20%;
+    }
+
+    #left-criterion li {
+        list-style: none;
+    }
+
+    #right-criterion {
+        width: 100%;
+    }
+
+    #right-about-criterion {
+        clear: both;
+        text-align: center;
+    }
+
+    
 
 }
 
