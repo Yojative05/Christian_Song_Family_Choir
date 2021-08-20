@@ -312,7 +312,7 @@ footer {
     color: #f16c6b;
 }
 
-/* Media queries */
+/* Media query for large screen sizes from 1200px wide and down  */
 
 @media screen and (max-width: 1200px) {
     #about-us {
@@ -342,9 +342,17 @@ footer {
     hr {
         display: none;
     }
+
+    /*Gallery sign up form */
+
+    #sign-up {
+        width: 100%;
+        height: max-content;
+    }
+
 }
 
-/* For medium screen sizes from 950px wide and down */
+/* Media query for medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
     
     #menu {
