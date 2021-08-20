@@ -203,6 +203,15 @@ footer {
 
 /* the choir gallery */
 
+#gallery-title {
+    clear: both;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 200%;
+    background-color: lightblue;
+}
+
 #photos {
     clear: both;
     line-height: 0;
