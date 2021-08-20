@@ -346,6 +346,32 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-
     }
+
+    #tagline {
+        left: 0;
+        padding: 30px;
+        background-color: rgba(137, 196, 244, 0.5);
+    }
+
+    #choir-image {
+        display: block;
+        width: 90%;
+        background-size: cover;
+    }
+
+    #about-us {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #left-about, #right-about{
+        width: 100%;
+        text-align: center;
+        margin-left: 20%;
+    }
+
+
+
 }
