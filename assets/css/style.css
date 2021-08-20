@@ -107,12 +107,14 @@ h1, h2 {
     padding-top: 30px;
     width: 50%;
     float: left;
+    padding-left: 20px;
 }
 
 #right-about {
     padding-top: 30px;
-    width: 50%;
+    width: 40%;
     float: right;
+    padding-left: 20px;
 }
 
 hr {
@@ -308,4 +310,29 @@ footer {
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+    #about-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-about, #right-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
 }
