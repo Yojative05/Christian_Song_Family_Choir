@@ -174,3 +174,7 @@ hr {
     border: 2px solid lightblue;
     box-sizing: border-box;
 }
+
+#services h2 {
+    color: #fafafa;
+}
