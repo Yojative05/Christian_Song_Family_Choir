@@ -296,6 +296,10 @@ footer {
         margin: 0;
     }
 
+    #tagline {
+        margin-right: -135px;
+    }
+
     #left-about, #right-about {
         width: 100%;
         float: left;
