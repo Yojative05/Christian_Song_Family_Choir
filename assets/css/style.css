@@ -272,14 +272,14 @@ footer {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f52828;
+    background-color: #0073c4;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #f52828;
+    color: #0073c4;
 }
 
 /* Media query for large screen sizes from 1200px wide and down  */
