@@ -374,9 +374,7 @@ footer {
         margin-left: 20px;
         margin-bottom: 20px;
         line-height: 25px;
-        font-size: 75%;
-        letter-spacing: 2px;
-    }
+        }
 
     #tagline {
         left: 0;
@@ -406,4 +404,12 @@ footer {
         column-count: 2;
     }
 
+}
+
+/* Media query for small screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
+
+    #menu {font-size: 70%;
+        letter-spacing: 2px;
+    }
 }
