@@ -282,6 +282,35 @@ footer {
     color: #0073c4;
 }
 
+/* Contact Us Page Form Section */
+
+.contact-us-section {
+    clear: left;
+    background-color: lightblue;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.contact-us-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.contact-us-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+
+
+
 /* Media query for large screen sizes from 1360px wide and down  */
 
 @media screen and (max-width: 1360px) {
