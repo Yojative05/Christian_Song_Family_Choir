@@ -293,11 +293,10 @@ footer {
 }
 
 .contact-us-form {
-    margin: 150px 10% 0 0;
+    margin: 50px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
-    height: 300px;
     position: absolute;
     left: 10%;
     padding: 30px;
@@ -308,7 +307,9 @@ footer {
     margin-bottom: 20px;
 }
 
-
+input[type="radio"]{
+    margin: 0 10px 0 10px;
+  }
 
 
 /* Media query for large screen sizes from 1360px wide and down  */
