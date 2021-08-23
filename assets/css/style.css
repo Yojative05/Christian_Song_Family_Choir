@@ -311,6 +311,38 @@ input[type="radio"]{
     margin: 0 10px 0 10px;
   }
 
+/* Contact Us Choir Director Section */
+
+#left-director {
+    clear: both;
+    width: 20%;
+    }
+    
+#circle-container {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle1-bg {
+    background: url("../images/choir\ director1.jpeg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#circle2-bg {
+    background: url("../images/choir\ assistant\ dir.jpeg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
+
 
 /* Media query for large screen sizes from 1360px wide and down  */
 
