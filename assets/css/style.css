@@ -793,22 +793,50 @@ input[type="radio"]{
     #left-about, #right-about {
         height: 250px;
     }
+
+/*Gallery images and sign up form */
+
+#sign-up {
+    height: 550px;
+}
+
+#sign-up .criteria {
+    width: 80%;
+    padding: 20px 0px 100px 50px;
+}
+
+.criteria {
+    height: 120px;
+    margin-left: 0px;
+}
+
+#photos {
+    column-count: 2;
+}
 }
 
 
-/* Media query for small screen sizes from 450px wide and down */
-@media screen and (max-width: 450px) {
+/* Media query for small screen sizes from 550px wide and down */
+@media screen and (max-width: 550px) {
 
-    #menu {font-size: 70%;
-        letter-spacing: 2px;
+    #menu {font-size: 80%;
+        letter-spacing: 1px;
+    }
+
+    #choir-outer {
+        background-image: url("../images/newsize-bg1.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+        width: 100%;
     }
 
     #tagline {
         font-size: 70%;
         overflow: hidden;
-        width: 50%;
-        margin-left: 30px;
-        height: 150px;
+        width: 40%;
+        margin-left: 5px;
+        height: 90px;
+        margin-bottom: -110px;
     }
 
     #choir-image {
@@ -816,5 +844,46 @@ input[type="radio"]{
         width: 90%;
         background-size: cover;
         background-position: center;
+    }
+
+    #left-about {
+        margin-left: 30px;
+    }
+
+    #right-about {
+        padding-right: 380px;
+    }
+
+    /* Choir Director section */
+
+    #circle-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    #directors h2 {
+        padding-top: 20px;
+    }
+
+    #directors {
+        font-size: 70%;
+        background-image: url("../images/cross1new.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+
+    #circle1-bg {
+        background: url("../images/dirimage1.jpg") no-repeat center center;
+    }
+
+    /*Gallery images and sign up form */
+    #photos {
+        column-count: 1;
+        padding: 20px;
+    }
+
+    /* footer height */
+    footer {
+        height: 100px;
     }
 }
