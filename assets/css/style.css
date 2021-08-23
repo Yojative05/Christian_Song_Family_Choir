@@ -383,9 +383,10 @@ input[type="radio"]{
         }
 
     #tagline {
-        left: 0;
+        left: 30px;
         padding: 30px;
         background-color: rgba(137, 196, 244, 0.5);
+        margin-bottom: -90px;
     }
 
     #choir-image {
@@ -425,5 +426,12 @@ input[type="radio"]{
         width: 50%;
         margin-left: 30px;
         height: 150px;
+    }
+
+    #choir-image {
+        display: block;
+        width: 90%;
+        background-size: cover;
+        background-position: center;
     }
 }
