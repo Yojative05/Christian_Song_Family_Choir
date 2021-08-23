@@ -765,6 +765,37 @@ input[type="radio"]{
     }
 }
 
+/* Media query for medium screen sizes from 675px wide and down */
+@media screen and (max-width: 675px) {
+
+    #tagline {
+        font-size: 65%;
+        height: 100px;
+        padding: 15px;
+        width: 35%;
+    }
+
+    #about-us {
+        height: 850px;
+        font-size: 80%;
+    }
+
+    #left-about {
+        padding: 0px;
+        width: 75%;
+        margin-left: 50px;
+    }
+    
+    #right-about {
+        margin-top: 20px;
+    }
+    
+    #left-about, #right-about {
+        height: 250px;
+    }
+}
+
+
 /* Media query for small screen sizes from 450px wide and down */
 @media screen and (max-width: 450px) {
 
