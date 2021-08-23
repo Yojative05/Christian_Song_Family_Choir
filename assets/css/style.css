@@ -221,6 +221,7 @@ footer {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 200%;
+    background-color: lightblue;
 }
 
 #photos {
@@ -237,7 +238,7 @@ footer {
 .criteria {
     height: 200px;
     float: left;
-    margin-left: 50px;
+    margin-left: 150px;
 }
 
 .criteria hr {
@@ -246,6 +247,9 @@ footer {
 
 #form {
     clear: both;
+    background-color: lightblue;
+    padding-top: 20px;
+    padding-left: 10%;
 }
 
 .form-section {
