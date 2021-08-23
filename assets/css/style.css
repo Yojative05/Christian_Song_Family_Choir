@@ -290,6 +290,7 @@ footer {
     background-size: cover;
     background-position: center;
     height: 600px;
+    margin-bottom: 30px;
 }
 
 .contact-us-form {
@@ -313,11 +314,30 @@ input[type="radio"]{
 
 /* Contact Us Choir Director Section */
 
+.directors {
+    margin-top: 50px;
+}
+
+#director-heading {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+
+#director1 {
+    display: inline-block;
+}
+
 #left-director {
-    clear: both;
     width: 20%;
+    float: left;
     }
-    
+
+#right-director {
+    width: 80%;
+    float: right;
+}
+
 #circle-container {
     width: 200px;
     height: 200px;
