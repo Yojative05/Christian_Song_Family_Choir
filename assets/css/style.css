@@ -897,3 +897,38 @@ input[type="radio"]{
         height: 100px;
     }
 }
+
+/* Media query for small screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
+
+    #choir-image {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    #about-us {
+        height: 950px;
+    }
+
+    #right-about {
+        height: 200px;
+        padding-top: 80px;
+        padding-bottom: 20px;
+    }
+
+    .right-about-heading {
+        padding-top: 20px;
+    }
+
+    /* Contact us form */
+
+    .contact-us-form {
+        margin: 30px 5% 0 0;
+        color: #fff;
+        background-color: rgba(46, 45, 45, 0.6);
+        max-width: 300px;
+        position: absolute;
+        left: 10%;
+        padding: 20px;
+    }
+}
