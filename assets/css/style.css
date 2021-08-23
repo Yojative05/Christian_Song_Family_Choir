@@ -445,8 +445,8 @@ input[type="radio"]{
     /* Media query for large screen sizes from 1430px wide and down  */
 
 @media screen and (max-width: 1430px) {
-  
-     .left-about-heading {
+
+   .left-about-heading {
         padding-left: 350px;
     }
     }
@@ -476,14 +476,134 @@ input[type="radio"]{
     .criteria {
         margin-left: 350px;
     }
+}
+
+/* Media query for large screen sizes from 1260px wide and down  */
+
+@media screen and (max-width: 1260px) {
     
-    #sign-up ul {
-        list-style-type: none;
-    }   
+    .left-about-heading {
+        padding-left: 300px;
     }
 
-/* Media query for medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
+    #right-about {
+        padding-right: 250px;
+    }
+       
+    /*Gallery sign up form */
+
+    #sign-up {
+        width: 100%;
+        height: 500px;
+    }
+
+    .criteria {
+        height: 100px;
+        float: left;
+        margin-left: 300px;
+    } 
+    }
+
+/* Media query for large screen sizes from 1180px wide and down  */
+
+@media screen and (max-width: 1180px) {
+    
+    #about-us {
+        height: 900px;
+    }
+
+    #tagline {
+        margin-right: -80px;
+        width: 25%;
+        font-size: 95%;
+        height:150px
+    }
+
+     .left-about-heading {
+        padding-left: 150px;
+        width: 100%;
+    }
+
+    #right-about {
+        margin-right: -500px;
+        width: 100%;
+    }
+
+    /*Gallery sign up form */
+
+    #sign-up {
+        width: 100%;
+        height: 550px;
+    }
+
+    .criteria {
+        height: 150px;
+        margin-left: 0px;
+        width: 100%;
+    }
+    }
+
+
+/* Media query for large screen sizes from 1060px wide and down  */
+
+@media screen and (max-width: 1060px) {
+    #choir-outer {
+        height: 500px;
+    }
+
+    #choir-image {
+        height:500px
+    }
+
+    .left-about-heading {
+        padding-left: 100px;
+    }
+
+    #right-about {
+        padding-right: 300px;
+    }
+
+    /*Gallery sign up form */
+
+    #sign-up {
+        width: 100%;
+        height: 550px;
+    }
+
+    .criteria {
+        height: 150px;
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    /* Background image of the director */
+    #directors {
+        background-position: center;
+    }
+
+}
+
+/* Media query for medium screen sizes from 1020px wide and down */
+@media screen and (max-width: 1020px) {
+    #tagline {
+        margin-right: -80px;
+        width: 25%;
+        font-size: 80%;
+        height:150px
+    }
+
+    /*Gallery sign up form */
+
+    .criteria {
+        height: 150px;
+        margin-left: -50px;
+        width: 100%;
+    }
+}
+    
+    
+/* Media query for medium screen sizes from 965px wide and down */
+@media screen and (max-width: 965px) {
     
     #menu {
         clear: left;
@@ -507,20 +627,33 @@ input[type="radio"]{
     }
 
     #about-us {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
+        width: 100%;
+        height: 850px;
+        }
+    
+    #left-about, #right-about {
+        height: 300px;
     }
 
-    #left-about, #right-about{
-        width: 100%;
-        text-align: center;
-        margin-left: 20%;
+    /*Gallery images and sign up form */
+
+    #sign-up {
+        height: 450px;
+    }
+
+    #sign-up .criteria {
+        padding: 20px 0px 70px 0px;
+    }
+
+    .criteria {
+        height: 100px;
+        margin-left: 0px;
     }
 
     #photos {
         column-count: 2;
     }
+
 
 }
 
