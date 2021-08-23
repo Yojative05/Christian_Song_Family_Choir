@@ -626,6 +626,11 @@ input[type="radio"]{
         background-size: cover;
     }
 
+    #welcome > p {
+        width: 90%;
+        padding-left: 40px;
+    }
+
     #about-us {
         width: 100%;
         height: 850px;
@@ -653,8 +658,111 @@ input[type="radio"]{
     #photos {
         column-count: 2;
     }
+}
 
+/* Media query for medium screen sizes from 900px wide and down */
+@media screen and (max-width: 900px) {
+    
+    #tagline {
+        left: 60px;
+        padding: 30px;
+        background-color: rgba(137, 196, 244, 0.6);
+        margin-bottom: -90px;
+    }
 
+    #choir-image {
+        display: block;
+        width: 90%;
+        background-size: cover;
+        background-position: center;
+        padding-left: 20px;
+        
+    }
+
+    #welcome > p {
+        width: 90%;
+        padding-left: 40px;
+    }
+
+    #about-us {
+        width: 100%;
+        height: 900px;
+        }
+    
+    #left-about, #right-about {
+        height: 300px;
+    }
+}
+
+/* Media query for medium screen sizes from 850px wide and down */
+@media screen and (max-width: 850px) {
+
+    #choir-outer {
+        width: 100%;
+    }
+    
+    #tagline {
+        font-size: 70%;
+        height: 100px;
+    }
+
+    #about-us {
+        width: 100%;
+        height: 950px;
+        }
+
+    #right-about {
+        padding-top: 60px;
+        padding-right: 320px;
+    }
+    
+    .left-about-heading {
+        padding-left: 70px;
+    }
+}
+
+/* Media query for medium screen sizes from 720px wide and down */
+@media screen and (max-width: 720px) {
+
+    #choir-outer {
+        height: 400px;
+        background-position: top;
+    }
+    
+    #tagline {
+        font-size: 65%;
+        height: 90px;
+        padding: 15px;
+        width: 30%;
+    }
+
+    #about-us {
+        height: 1000px;
+        }
+    
+    #about-us  h2 {
+        padding: 10px;
+    }
+
+    .left-about-heading {
+        padding-left: 50px;
+        margin-bottom: 40px;
+    }
+
+    #right-about {
+        padding: 60px;
+        padding-right: 350px;
+        margin-top: 40px;
+    }
+    
+    #left-about, #right-about {
+        height: 280px;
+    }
+
+    /* Background image of the director */
+    #directors {
+        background-position: top-right;
+    }
 }
 
 /* Media query for small screen sizes from 450px wide and down */
