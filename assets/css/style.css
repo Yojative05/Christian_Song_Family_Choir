@@ -12,6 +12,7 @@ body {
     color: dimgrey;
 }
 
+
 /* headings and logo */
 
 h1, h2 {
@@ -101,13 +102,14 @@ h1, h2 {
 /* about us section */
 #about-us {
     height: 600px;
+    background-color: ivory;
 }
 
 #left-about {
     padding-top: 30px;
     width: 50%;
     float: left;
-    padding-left: 50px;
+    padding-left: 150px;
 }
 
 #right-about {
@@ -185,6 +187,7 @@ hr {
 
 footer {
     height: 150px;
+    background-color:#fff9e3;
 }
 
 .social-networks {
@@ -204,13 +207,20 @@ footer {
 
 /* the choir gallery */
 
+#sign-up {
+    background-color: #fff9e3;
+}
+
+#sign-up .criteria {
+    background-color: rgba (255,249,227, 0.7);
+}
+
 #gallery-title {
     clear: both;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 200%;
-    background-color: lightblue;
 }
 
 #photos {
@@ -226,6 +236,16 @@ footer {
 
 .criteria {
     height: 200px;
+    float: left;
+    margin-left: 50px;
+}
+
+.criteria hr {
+    width: 50%;
+}
+
+#form {
+    clear: both;
 }
 
 .form-section {
