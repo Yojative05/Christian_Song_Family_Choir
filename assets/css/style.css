@@ -107,14 +107,13 @@ h1, h2 {
     padding-top: 30px;
     width: 50%;
     float: left;
-    padding-left: 20px;
+    padding-left: 50px;
 }
 
 #right-about {
     padding-top: 30px;
     width: 40%;
     float: right;
-    padding-left: 20px;
 }
 
 hr {
@@ -314,28 +313,19 @@ input[type="radio"]{
 
 /* Contact Us Choir Director Section */
 
-.directors {
-    margin-top: 50px;
-}
-
 #director-heading {
+    margin-top: 50px;
     background-color: lightblue;
     padding: 10px;
     text-align: center;
 }
 
-#director1 {
-    display: inline-block;
-}
-
-#left-director {
-    width: 20%;
-    float: left;
-    }
-
-#right-director {
-    width: 80%;
-    float: right;
+#directors {
+    text-align: justify;
+    margin: 30px 25%;
+    background-image: url("../images/cross1.jfif");
+    padding: 20px;
+    color: #fff;;
 }
 
 #circle-container {
@@ -346,7 +336,6 @@ input[type="radio"]{
     border-color: #cccccc;
     border-width: 1px;
     border-radius: 50%;
-    margin: 0 auto;
 }
 
 #circle1-bg {
@@ -354,13 +343,6 @@ input[type="radio"]{
     height: 100%;
     border-radius: 50%;
 }
-
-#circle2-bg {
-    background: url("../images/choir\ assistant\ dir.jpeg") no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
-}
-
 
 
 
