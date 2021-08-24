@@ -673,12 +673,12 @@ input[type="radio"]{
 @media screen and (max-width: 600px) {
 
     #logo {
-        font-size: 120%;
-        padding-top: 20px;
+        padding-top: 10px;
+        margin: 20px;
     }
     
     #logo, #menu {
-        line-height: 50px;
+        line-height: 40px;
     }
     
     #menu {
@@ -852,5 +852,6 @@ input[type="radio"]{
     #circle1-bg {
         background: url("../images/dirimage1.jpg") no-repeat center center;
     }
-
 }
+
+
