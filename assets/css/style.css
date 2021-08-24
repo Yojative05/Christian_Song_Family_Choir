@@ -791,4 +791,57 @@ input[type="radio"]{
         margin: 20px;
         left: 10px;
     }
+
+    /* Contact us section */
+    .contact-us-section {
+        height: 500px;
+    }
+
+    .contact-us-form {
+        left: 10px;
+        font-size: 60%;
+        margin: 20px;
+        padding: 20px;
+    }
+
+    input[type="radio"] {
+        margin: 0px 5px;
+    }
+
+    .join-button {
+        font-size: 150%;
+        padding: 10px 20px;
+    }
+
+    #director-heading {
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
+    #directors {
+        margin: 10%;
+        font-size: 80%;
+    }
+
+    #circle-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    #directors h2 {
+        padding-top: 20px;
+        color: #fff;
+    }
+
+    #directors {
+        font-size: 60%;
+        background-image: url("../images/cross1new.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+        padding: 10px;
+    }
+
+    #circle1-bg {
+        background: url("../images/dirimage1.jpg") no-repeat center center;
+    }
+
 }
