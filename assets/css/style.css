@@ -183,6 +183,10 @@ hr {
     color: #fafafa;
 }
 
+#services > #service-title {
+    color: #000;
+}
+
 /* footer */
 
 footer {
