@@ -751,4 +751,44 @@ input[type="radio"]{
     footer {
         height: 80px;
     }
+
+    /* The Choir Page */
+    #photos {
+        column-count: 1;
+        padding: 20px;
+    }
+
+    #gallery-title {
+        font-size: 120%;
+    }
+
+    #sign-up {
+        height: 400px;
+    }
+
+    #sign-up .criteria {
+        padding: 0px;
+    }
+
+    .criteria {
+        float: none;
+        font-size: 75%;
+        padding: 20px;
+        margin: 20px 0px;
+        height: 170px;
+        width: 80%;
+    }
+
+    #form {
+        font-size: 80%;
+    }
+
+    .form-section {
+        height: 400px;
+    }
+
+    .signup-form {
+        margin: 20px;
+        left: 10px;
+    }
 }
