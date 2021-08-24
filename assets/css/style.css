@@ -658,6 +658,117 @@ input[type="radio"]{
     .criteria {
         margin-left: 70px;
     }
+}
 
-   
+/* Media query for small screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
+
+    h1 {
+        text-align: center;
+        height: 80px;
+        margin: 0 auto;
+        }
+
+    #logo {
+        font-size: 150%;
+    }
+
+    #menu {font-size: 80%;
+        letter-spacing: 1px;
+    }
+
+    #choir-outer {
+        background-image: url("../images/newsize-bg1.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+        width: 100%;
+        height: 500px;
+    }
+
+    #tagline {
+        font-size: 70%;
+        width: 70%;
+        padding: 20px;
+        height: 60px;
+        margin-bottom: -130px;
+        text-align: center;
+    }
+
+    #choir-image {
+        display: block;
+        width: 90%;
+        height: 370px;
+        background-size: cover;
+        background-position: center;
+        margin-left: 15px;
+    }
+
+    #about-us {
+        width: 100%;
+        font-size: 75%;
+        height: 1100px;
+    }
+
+    #left-about {
+        margin-left: 0px;
+        padding: 10px;
+    }
+
+    #right-about {
+        padding-right: 0px;
+        padding-left: 10px;
+        width: 70%;
+    }
+
+    /* Gallery sign up form */
+    #sign-up {
+        height: 450px;
+    }
+    #sign-up .criteria {
+        padding: 40px 10px;
+    }
+
+    .criteria {
+        margin-left: 40px;
+        font-size: 80%;
+        width: 75%;
+    }
+
+    /* Contact us Form */
+    .contact-us-form {
+        font-size: 80%;
+    }
+
+    /* Choir Director section */
+
+    #circle-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    #directors h2 {
+        padding-top: 20px;
+    }
+
+    #directors {
+        font-size: 65%;
+        background-image: url("../images/cross1new.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+
+    #circle1-bg {
+        background: url("../images/dirimage1.jpg") no-repeat center center;
+    }
+
+    /*Gallery images and sign up form */
+    #photos {
+        column-count: 1;
+        padding: 20px;
+    }
+
+    /* footer height */
+    footer {
+        height: 100px;
+    }
 }
