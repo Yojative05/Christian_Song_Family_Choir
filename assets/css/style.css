@@ -703,7 +703,7 @@ input[type="radio"]{
     }
 
     #about-us {
-        height: 1000px;
+        height: 600px;
         font-size: 60%;
     }
 
@@ -721,6 +721,22 @@ input[type="radio"]{
     }
 
     .left-about-heading {
+        padding: 0px;
+        margin: 10px 0px;
+        width: 100%;
+        line-height: 15px;
+        float: none;
+    }
+
+    #right-about {
+        width: 85%;
+        padding-top: 0px;
+        padding-left: 0px;
+        padding: 20px;
+        float: none;
+    }
+
+    .right-about-heading {
         padding: 0px;
         margin: 10px 0px;
         width: 100%;
