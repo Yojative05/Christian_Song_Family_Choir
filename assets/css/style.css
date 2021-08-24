@@ -701,4 +701,30 @@ input[type="radio"]{
         margin: 0px;
         text-align: center;
     }
+
+    #about-us {
+        height: 1000px;
+        font-size: 60%;
+    }
+
+    #welcome {
+        padding: 30px 0px 10px 0px;
+    }
+
+    #welcome > p {
+        padding-left: 10px;
+    }
+
+    #left-about {
+        padding-left: 0px;
+        padding: 20px;
+    }
+
+    .left-about-heading {
+        padding: 0px;
+        margin: 10px 0px;
+        width: 100%;
+        line-height: 15px;
+        float: none;
+    }
 }
