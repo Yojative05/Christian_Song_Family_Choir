@@ -706,12 +706,17 @@ input[type="radio"]{
     #about-us {
         width: 100%;
         font-size: 75%;
-        height: 1100px;
+        height: 1000px;  
+    }
+
+    #welcome {
+        width: 70%;
+        padding-left: 30px;
     }
 
     #left-about {
-        margin-left: 0px;
         padding: 10px;
+        padding-left: 100px;
     }
 
     #right-about {
@@ -720,9 +725,18 @@ input[type="radio"]{
         width: 70%;
     }
 
+    .left-about-heading {
+        padding-left: 0px;
+        margin: 0;
+    }
+
+    .right-about-heading {
+        margin: 0;
+    }
+
     /* Gallery sign up form */
     #sign-up {
-        height: 450px;
+        height: 540px;
     }
     #sign-up .criteria {
         padding: 40px 10px;
@@ -732,11 +746,15 @@ input[type="radio"]{
         margin-left: 40px;
         font-size: 80%;
         width: 75%;
+        vertical-align: top;
+        margin-bottom: 50px;
     }
 
     /* Contact us Form */
     .contact-us-form {
-        font-size: 80%;
+        font-size: 65%;
+        max-width: 300px;
+        padding: 15px;
     }
 
     /* Choir Director section */
@@ -751,10 +769,12 @@ input[type="radio"]{
     }
 
     #directors {
-        font-size: 65%;
+        font-size: 60%;
         background-image: url("../images/cross1new.jpg");
         background-repeat: no-repeat;
         background-position: top;
+        margin: 20px 20%;
+        padding: 10px;
     }
 
     #circle1-bg {
