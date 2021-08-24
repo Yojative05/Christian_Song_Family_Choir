@@ -618,3 +618,46 @@ input[type="radio"]{
    
 }
 
+/* Media query for medium screen sizes from 770px wide and down */
+@media screen and (max-width: 770px) {
+
+    #tagline {
+        font-size: 80%;
+        height: 100px;
+    }
+
+    #about-us {
+        height: 900px;
+        font-size: 80%;
+        }
+    
+    #left-about {
+        padding-left: 80px;
+        width: 85%;
+    }
+
+    #right-about {
+        padding-top: 50px;
+        padding-right: 0px;
+        padding-left: 300px;
+        width: 75%;
+    }
+
+    /* services */
+    #services {
+        font-size: 80%;
+    }
+
+    /*Gallery images and sign up form */
+
+    #photos {
+        column-count: 2;
+        padding: 0 30px;
+    }
+
+    .criteria {
+        margin-left: 70px;
+    }
+
+   
+}
