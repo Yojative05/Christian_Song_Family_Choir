@@ -504,46 +504,6 @@ input[type="radio"]{
     } 
     }
 
-/* Media query for large screen sizes from 1180px wide and down  */
-
-@media screen and (max-width: 1180px) {
-    
-    #about-us {
-        height: 900px;
-    }
-
-    #tagline {
-        margin-right: -80px;
-        width: 25%;
-        font-size: 95%;
-        height:150px
-    }
-
-     .left-about-heading {
-        padding-left: 150px;
-        width: 100%;
-    }
-
-    #right-about {
-        margin-right: -500px;
-        width: 100%;
-    }
-
-    /*Gallery sign up form */
-
-    #sign-up {
-        width: 100%;
-        height: 550px;
-    }
-
-    .criteria {
-        height: 150px;
-        margin-left: 0px;
-        width: 100%;
-    }
-    }
-
-
 /* Media query for large screen sizes from 1060px wide and down  */
 
 @media screen and (max-width: 1060px) {
@@ -555,380 +515,41 @@ input[type="radio"]{
         height:500px
     }
 
+    #tagline {
+        height: 150px;
+    }
+
+    #about-us {
+        height: 950px;
+    }
+
+    #left-about {
+        padding-top: 20px;
+        width: 75%;
+        padding-left: 200px;
+    }
+
+    #right-about {
+        padding-top: 20px;
+        width: 70%;
+        padding-right: 0px;
+        padding-left: 200px;
+        margin: 0 auto;
+   }
+
     .left-about-heading {
         padding-left: 100px;
     }
 
-    #right-about {
-        padding-right: 300px;
-    }
-
     /*Gallery sign up form */
 
-    #sign-up {
-        width: 100%;
-        height: 550px;
-    }
-
-    .criteria {
-        height: 150px;
-        margin-left: 0px;
-        width: 100%;
-    }
+   .criteria {
+       margin-left: 200px;
+   }
 
     /* Background image of the director */
     #directors {
         background-position: center;
     }
 
-}
-
-/* Media query for medium screen sizes from 1020px wide and down */
-@media screen and (max-width: 1020px) {
-    #tagline {
-        margin-right: -80px;
-        width: 25%;
-        font-size: 80%;
-        height:150px
-    }
-
-    /*Gallery sign up form */
-
-    .criteria {
-        height: 150px;
-        margin-left: -50px;
-        width: 100%;
-    }
-}
-    
-    
-/* Media query for medium screen sizes from 965px wide and down */
-@media screen and (max-width: 965px) {
-    
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 20px;
-        margin-bottom: 20px;
-        line-height: 25px;
-        }
-
-    #tagline {
-        left: 30px;
-        padding: 30px;
-        background-color: rgba(137, 196, 244, 0.5);
-        margin-bottom: -90px;
-    }
-
-    #choir-image {
-        display: block;
-        width: 90%;
-        background-size: cover;
-    }
-
-    #welcome > p {
-        width: 90%;
-        padding-left: 40px;
-    }
-
-    #about-us {
-        width: 100%;
-        height: 850px;
-        }
-    
-    #left-about, #right-about {
-        height: 300px;
-    }
-
-    /*Gallery images and sign up form */
-
-    #sign-up {
-        height: 450px;
-    }
-
-    #sign-up .criteria {
-        padding: 20px 0px 70px 0px;
-    }
-
-    .criteria {
-        height: 100px;
-        margin-left: 0px;
-    }
-
-    #photos {
-        column-count: 2;
-    }
-}
-
-/* Media query for medium screen sizes from 900px wide and down */
-@media screen and (max-width: 900px) {
-    
-    #tagline {
-        left: 60px;
-        padding: 30px;
-        background-color: rgba(137, 196, 244, 0.6);
-        margin-bottom: -90px;
-    }
-
-    #choir-image {
-        display: block;
-        width: 90%;
-        background-size: cover;
-        background-position: center;
-        padding-left: 20px;
-        
-    }
-
-    #welcome > p {
-        width: 90%;
-        padding-left: 40px;
-    }
-
-    #about-us {
-        width: 100%;
-        height: 900px;
-        }
-    
-    #left-about, #right-about {
-        height: 300px;
-    }
-}
-
-/* Media query for medium screen sizes from 850px wide and down */
-@media screen and (max-width: 850px) {
-
-    #choir-outer {
-        width: 100%;
-    }
-    
-    #tagline {
-        font-size: 70%;
-        height: 100px;
-    }
-
-    #about-us {
-        width: 100%;
-        height: 950px;
-        }
-
-    #right-about {
-        padding-top: 60px;
-        padding-right: 320px;
-    }
-    
-    .left-about-heading {
-        padding-left: 70px;
-    }
-}
-
-/* Media query for medium screen sizes from 720px wide and down */
-@media screen and (max-width: 720px) {
-
-    #choir-outer {
-        height: 400px;
-        background-position: top;
-    }
-    
-    #tagline {
-        font-size: 65%;
-        height: 90px;
-        padding: 15px;
-        width: 30%;
-    }
-
-    #about-us {
-        height: 1000px;
-        }
-    
-    #about-us  h2 {
-        padding: 10px;
-    }
-
-    .left-about-heading {
-        padding-left: 50px;
-        margin-bottom: 40px;
-    }
-
-    #right-about {
-        padding: 60px;
-        padding-right: 350px;
-        margin-top: 40px;
-    }
-    
-    #left-about, #right-about {
-        height: 280px;
-    }
-
-    /* Background image of the director */
-    #directors {
-        background-position: top-right;
-    }
-}
-
-/* Media query for medium screen sizes from 675px wide and down */
-@media screen and (max-width: 675px) {
-
-    #tagline {
-        font-size: 65%;
-        height: 100px;
-        padding: 15px;
-        width: 35%;
-    }
-
-    #about-us {
-        height: 850px;
-        font-size: 80%;
-    }
-
-    #left-about {
-        padding: 0px;
-        width: 75%;
-        margin-left: 50px;
-    }
-    
-    #right-about {
-        margin-top: 20px;
-    }
-    
-    #left-about, #right-about {
-        height: 250px;
-    }
-
-/*Gallery images and sign up form */
-
-#sign-up {
-    height: 550px;
-}
-
-#sign-up .criteria {
-    width: 80%;
-    padding: 20px 0px 100px 50px;
-}
-
-.criteria {
-    height: 120px;
-    margin-left: 0px;
-}
-
-#photos {
-    column-count: 2;
-}
-}
-
-
-/* Media query for small screen sizes from 550px wide and down */
-@media screen and (max-width: 550px) {
-
-    h1 {
-        text-align: center;
-        height: 80px;
-        margin: 0 auto;
-    }
-    #logo {
-        font-size: 200%;
-    }
-
-    #menu {font-size: 80%;
-        letter-spacing: 1px;
-    }
-
-    #choir-outer {
-        background-image: url("../images/newsize-bg1.jpg");
-        background-repeat: no-repeat;
-        background-position: top;
-        width: 100%;
-        height: 500px;
-    }
-
-    #tagline {
-        font-size: 70%;
-        width: 70%;
-        height: 70px;
-        margin-bottom: -130px;
-    }
-
-    #choir-image {
-        display: block;
-        width: 90%;
-        height: 370px;
-        background-size: cover;
-        background-position: center;
-        margin-left: 15px;
-    }
-
-    #left-about {
-        margin-left: 30px;
-    }
-
-    #right-about {
-        padding-right: 380px;
-    }
-
-    /* Choir Director section */
-
-    #circle-container {
-        width: 100px;
-        height: 100px;
-    }
-
-    #directors h2 {
-        padding-top: 20px;
-    }
-
-    #directors {
-        font-size: 70%;
-        background-image: url("../images/cross1new.jpg");
-        background-repeat: no-repeat;
-        background-position: top;
-    }
-
-    #circle1-bg {
-        background: url("../images/dirimage1.jpg") no-repeat center center;
-    }
-
-    /*Gallery images and sign up form */
-    #photos {
-        column-count: 1;
-        padding: 20px;
-    }
-
-    /* footer height */
-    footer {
-        height: 100px;
-    }
-}
-
-/* Media query for small screen sizes from 450px wide and down */
-@media screen and (max-width: 450px) {
-
-    #choir-image {
-        width: 100%;
-        margin-left: 0px;
-    }
-
-    #about-us {
-        height: 950px;
-    }
-
-    #right-about {
-        height: 200px;
-        padding-top: 80px;
-        padding-bottom: 20px;
-    }
-
-    .right-about-heading {
-        padding-top: 20px;
-    }
-
-    /* Contact us form */
-
-    .contact-us-form {
-        margin: 30px 5% 0 0;
-        color: #fff;
-        background-color: rgba(46, 45, 45, 0.6);
-        max-width: 300px;
-        position: absolute;
-        left: 10%;
-        padding: 20px;
-    }
 }
