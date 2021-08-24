@@ -225,7 +225,7 @@ footer {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 200%;
-    background-color: lightblue;
+    background-color: rgba(137, 196, 244);
 }
 
 #photos {
@@ -251,14 +251,15 @@ footer {
 
 #form {
     clear: both;
-    background-color: lightblue;
+    background-color: rgba(137, 196, 244);
     padding-top: 20px;
     padding-left: 10%;
+    color: #000;
 }
 
 .form-section {
     clear: left;
-    background-color: lightblue;
+    background-color: rgba(137, 196, 244);
     background-size: cover;
     background-position: center;
     height: 450px;
@@ -628,7 +629,7 @@ input[type="radio"]{
     #choir-image {
         background-position: right;
     }
-    
+
     #tagline {
         font-size: 80%;
         height: 100px;
