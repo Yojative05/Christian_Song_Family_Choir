@@ -660,10 +660,45 @@ input[type="radio"]{
     }
 }
 
-/* Media query for small screen sizes from 425px wide and down */
-@media screen and (max-width: 425px) {
+/* Media query for small screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
 
     #logo {
+        font-size: 120%;
+        padding-top: 20px;
+    }
+    
+    #logo, #menu {
+        line-height: 50px;
+    }
+    
+    #menu {
         font-size: 80%;
+        letter-spacing: 1px;
+        margin-bottom: 10px;
+        margin-left: 25px;
+        
+       }
+
+    #choir-outer {
+        height: 380px;
+    }
+
+    #choir-image {
+        height: 290px;
+        margin-left: 0px;
+        width: 95%;
+        margin: 6px;
+    }
+
+    #tagline {
+        height: 50px;
+        font-size: 50%;
+        width: 80%;
+        letter-spacing: 2px;
+        bottom: 15px;
+        padding: 5px;
+        margin: 0px;
+        text-align: center;
     }
 }
