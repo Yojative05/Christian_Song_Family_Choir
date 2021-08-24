@@ -625,6 +625,10 @@ input[type="radio"]{
 /* Media query for medium screen sizes from 770px wide and down */
 @media screen and (max-width: 770px) {
 
+    #choir-image {
+        background-position: right;
+    }
+    
     #tagline {
         font-size: 80%;
         height: 100px;
