@@ -660,8 +660,8 @@ input[type="radio"]{
     }
 }
 
-/* Media query for small screen sizes from 450px wide and down */
-@media screen and (max-width: 450px) {
+/* Media query for small screen sizes from 425px wide and down */
+@media screen and (max-width: 425px) {
 
     h1 {
         text-align: center;
@@ -670,7 +670,7 @@ input[type="radio"]{
         }
 
     #logo {
-        font-size: 150%;
+        font-size: 90%;
     }
 
     #menu {font-size: 80%;
@@ -792,3 +792,119 @@ input[type="radio"]{
         height: 100px;
     }
 }
+
+/* Media query for small screen sizes from 320px wide and down */
+@media screen and (max-width: 320px) {
+
+    h1 {
+        height: 70px;
+    }
+
+    #logo {
+        font-size: 120%;
+    }
+
+    #choir-outer {
+        height: 400px;
+    }
+
+    #tagline {
+        font-size: 60%;
+        padding: 10px;
+        height: 50px;    
+    }
+
+    #choir-image {
+        height: 300px;  
+    }
+
+    #about-us {
+        width: 100%;
+        font-size: 75%;
+        height: 1000px;  
+    }
+
+    #welcome {
+        width: 70%;
+        padding-left: 30px;
+    }
+
+    #left-about {
+        padding: 10px;
+        padding-left: 100px;
+    }
+
+    #right-about {
+        padding-right: 0px;
+        padding-left: 10px;
+        width: 70%;
+    }
+
+    .left-about-heading {
+        padding-left: 0px;
+        margin: 0;
+    }
+
+    .right-about-heading {
+        margin: 0;
+    }
+
+    /* Gallery sign up form */
+    #sign-up {
+        height: 540px;
+    }
+    #sign-up .criteria {
+        padding: 40px 10px;
+    }
+
+    .criteria {
+        margin-left: 40px;
+        font-size: 80%;
+        width: 75%;
+        vertical-align: top;
+        margin-bottom: 50px;
+    }
+
+    /* Contact us Form */
+    .contact-us-form {
+        font-size: 65%;
+        max-width: 300px;
+        padding: 15px;
+    }
+
+    /* Choir Director section */
+
+    #circle-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    #directors h2 {
+        padding-top: 20px;
+    }
+
+    #directors {
+        font-size: 60%;
+        background-image: url("../images/cross1new.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+        margin: 20px 20%;
+        padding: 10px;
+    }
+
+    #circle1-bg {
+        background: url("../images/dirimage1.jpg") no-repeat center center;
+    }
+
+    /*Gallery images and sign up form */
+    #photos {
+        column-count: 1;
+        padding: 20px;
+    }
+
+    /* footer height */
+    footer {
+        height: 100px;
+    }
+}
+
