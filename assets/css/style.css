@@ -583,7 +583,8 @@ input[type="radio"] {
         padding-right: 100px;
     }
 
-    .left-about-heading, .right-about-heading {
+    .left-about-heading,
+    .right-about-heading {
         width: 85%;
     }
 
@@ -622,7 +623,7 @@ input[type="radio"] {
 
 /* Media query for medium screen sizes from 960px wide and down */
 @media screen and (max-width: 960px) {
-    
+
     /* Menu nav */
 
     #menu {
@@ -681,7 +682,8 @@ input[type="radio"] {
         width: 80%;
     }
 
-    .left-about-heading, .right-about-heading {
+    .left-about-heading,
+    .right-about-heading {
         width: 90%;
     }
 
@@ -809,7 +811,7 @@ input[type="radio"] {
         padding-top: 0px;
         padding-left: 0px;
         padding: 20px;
-        margin-right: 0; 
+        margin-right: 0;
     }
 
     .right-about-heading {
@@ -847,6 +849,38 @@ input[type="radio"] {
         width: 75%;
     }
 
+    #directors {
+        font-size: 60%;
+        background-image: url("../images/cross1new.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+        padding: 10px;
+    }
+
+    #circle1-bg {
+        background: url("../images/dirimage1.jpg") no-repeat center center;
+    }
+
+    #director-heading {
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
+
+    #directors {
+        margin: 10%;
+        font-size: 80%;
+    }
+
+    #circle-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    #directors h2 {
+        padding-top: 20px;
+        color: #fff;
+    }
+
     /* The Choir Page-sign up section */
 
     #sign-up {
@@ -881,7 +915,7 @@ input[type="radio"] {
 
     /* Contact us section */
     .contact-us-section {
-        height: 500px;
+        height: 650px;
     }
 
     .contact-us-form {
@@ -889,6 +923,7 @@ input[type="radio"] {
         font-size: 60%;
         margin: 20px;
         padding: 20px;
+        max-width: 300px;
     }
 
     input[type="radio"] {
@@ -900,36 +935,12 @@ input[type="radio"] {
         padding: 10px 20px;
     }
 
-    #director-heading {
-        letter-spacing: 2px;
-        font-size: 120%;
-    }
-
-    #directors {
-        margin: 10%;
-        font-size: 80%;
-    }
-
-    #circle-container {
-        width: 100px;
-        height: 100px;
-    }
-
-    #directors h2 {
-        padding-top: 20px;
-        color: #fff;
-    }
-
-    #directors {
-        font-size: 60%;
-        background-image: url("../images/cross1new.jpg");
-        background-repeat: no-repeat;
-        background-position: top;
-        padding: 10px;
-    }
-
-    #circle1-bg {
-        background: url("../images/dirimage1.jpg") no-repeat center center;
+    .contact-details {
+        width: 90%;
+        font-size: 75%;
+        margin: 0;
+        margin-top: 370px;
+        margin-right: 200px;
+        float: left;
     }
 }
-
