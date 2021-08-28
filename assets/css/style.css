@@ -12,7 +12,6 @@ body {
     color: dimgrey;
 }
 
-
 /* headings and logo */
 
 h1,
@@ -102,7 +101,8 @@ h2 {
     font-size: 200%;
 }
 
-/* about us section */
+/* about us section of the index page*/
+
 #about-us {
     height: 600px;
     background-color: ivory;
@@ -152,7 +152,7 @@ hr {
     font-size: 280%;
 }
 
-/* Our Services Section */
+/* Our Services Section of the index page*/
 
 #services {
     background-image: url('../images/choir\ loft\ 3.jpg');
@@ -193,7 +193,7 @@ hr {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 200px;
     background-color: #fff9e3;
 }
 
@@ -212,7 +212,7 @@ footer {
     color: dimgrey;
 }
 
-/* the choir gallery */
+/* the gallery section of the choir page*/
 
 #sign-up {
     background-color: #fff9e3;
@@ -242,15 +242,55 @@ footer {
     width: 100%;
 }
 
+/* The Meet our Director Section of the choir page */
+
+#director-heading {
+    margin-top: 50px;
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+
+#directors {
+    text-align: justify;
+    margin: 30px 25%;
+    background-image: url("../images/cross1.jfif");
+    padding: 20px;
+    color: #fff;
+    background-repeat: no-repeat;
+    width: 45%;
+}
+
+#circle-container {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+#circle1-bg {
+    background: url("../images/choir\ director1.jpeg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+/* the requirements section of the choir page */
+
 .criteria {
     height: 200px;
     float: left;
     margin-left: 150px;
+    background-color: ivory;
 }
 
 .criteria hr {
     width: 50%;
 }
+
+/* the join us form section of the choir page*/
 
 #form {
     clear: both;
@@ -343,48 +383,12 @@ input[type="radio"] {
     margin: 0 10px 0 10px;
 }
 
-/* Contact Us Choir Director Section */
-
-#director-heading {
-    margin-top: 50px;
-    background-color: lightblue;
-    padding: 10px;
-    text-align: center;
-}
-
-#directors {
-    text-align: justify;
-    margin: 30px 25%;
-    background-image: url("../images/cross1.jfif");
-    padding: 20px;
-    color: #fff;
-    ;
-}
-
-#circle-container {
-    width: 200px;
-    height: 200px;
-    padding: 10px;
-    border-style: solid;
-    border-color: #cccccc;
-    border-width: 1px;
-    border-radius: 50%;
-}
-
-#circle1-bg {
-    background: url("../images/choir\ director1.jpeg") no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
-}
-
-
-
 /* Media query for large screen sizes from 1500px wide and down  */
 
 @media screen and (max-width: 1500px) {
     #about-us {
         width: 100%;
-        height: 900px;
+        height: 750px;
         text-align: center;
         position: relative;
     }
@@ -401,15 +405,24 @@ input[type="radio"] {
         font-size: 95%;
     }
 
+    #left-about {
+        padding-top: 30px;
+        padding-left: 0px;
+    }
+
     .left-about-heading {
-        padding-left: 400px;
+        padding-left: 100px;
     }
 
     #right-about {
-        padding-right: 300px;
+        padding-right: 0px;
+        width: 50%;
     }
 
-
+    .right-about-heading {
+        float: right;
+        padding-right: 100px;
+    }
 
     #services div {
         width: 100%;
@@ -418,15 +431,11 @@ input[type="radio"] {
         padding: 0;
     }
 
-    hr {
-        display: none;
-    }
-
-    /*Gallery sign up form */
+    /*Choir Page sign up form section*/
 
     #sign-up {
         width: 100%;
-        height: 700px;
+        height: 500px;
     }
 
     #sign-up {
@@ -442,7 +451,16 @@ input[type="radio"] {
     .criteria {
         height: 200px;
         float: left;
-        margin-left: 400px;
+        margin-left: 0px;
+    }
+
+    .criteria hr {
+        width: 100%;
+    }
+
+    #criteria-right {
+        float: right;
+        padding-left: 100px;
     }
 
     #sign-up ul {
@@ -450,8 +468,7 @@ input[type="radio"] {
     }
 }
 
-
-/* Media query for large screen sizes from 1430px wide and down  */
+/* Media query for large screen sizes from 1430px wide and down /*/
 
 @media screen and (max-width: 1430px) {
 
