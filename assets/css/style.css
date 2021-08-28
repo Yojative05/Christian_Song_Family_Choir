@@ -830,7 +830,8 @@ input[type="radio"] {
         height: 80px;
     }
 
-    /* The Choir Page */
+    /* The Choir Page-gallery section */
+
     #photos {
         column-count: 1;
         padding: 20px;
@@ -840,8 +841,16 @@ input[type="radio"] {
         font-size: 120%;
     }
 
+    /* The Choir Page-director section */
+
+    #directors {
+        width: 75%;
+    }
+
+    /* The Choir Page-sign up section */
+
     #sign-up {
-        height: 400px;
+        height: 450px;
     }
 
     #sign-up .criteria {
