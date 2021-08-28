@@ -619,3 +619,84 @@ input[type="radio"] {
         margin-top: 70px;
     }
 }
+
+/* Media query for medium screen sizes from 960px wide and down */
+@media screen and (max-width: 960px) {
+    
+    /* Menu nav */
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    /*Choir hero image */
+
+    #choir-outer {
+        height: 500px;
+    }
+
+    #tagline {
+        width: 80%;
+        height: 60px;
+        left: 50px;
+        padding: 20px;
+        background-color: rgba(137, 196, 244, 0.5);
+        margin-bottom: -140px;
+    }
+
+    #choir-image {
+        margin-top: 30px;
+        display: block;
+        width: 90%;
+        background-size: cover;
+        height: 350px;
+    }
+
+    /* About Us */
+
+    #font-increase {
+        font-size: 200%;
+    }
+
+    #welcome>p {
+        width: 90%;
+        padding-left: 40px;
+    }
+
+    #about-us {
+        height: 950px;
+    }
+
+    #left-about {
+        padding-left: 100px;
+        width: 80%;
+    }
+
+    #right-about {
+        padding-left: 100px;
+        width: 80%;
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: 90%;
+    }
+
+    
+
+    /* footer */
+
+    footer {
+        height: 100px;
+    }
+
+    /*Gallery images and sign up form */
+
+    .criteria {
+        height: 100px;
+        margin-left: 150px;
+    }
+}
