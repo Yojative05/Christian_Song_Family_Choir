@@ -607,5 +607,15 @@ input[type="radio"] {
         padding-left: 0px;
     }
 
+    /* Contact us page - the form */
 
+    .contact-us-form {
+        max-width: 350px;
+        font-size: 80%;
+        left: 5%;
+    }
+
+    #contact-info {
+        margin-top: 70px;
+    }
 }
