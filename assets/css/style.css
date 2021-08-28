@@ -15,7 +15,8 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: "Style Script", Verdana;
     letter-spacing: 4px;
     color: #252525;
@@ -34,7 +35,8 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -77,7 +79,8 @@ h1, h2 {
     margin-left: 30px;
 }
 
-#tagline, #tagline h2 {
+#tagline,
+#tagline h2 {
     color: #00008b;
 }
 
@@ -183,7 +186,7 @@ hr {
     color: #fafafa;
 }
 
-#services > #service-title {
+#services>#service-title {
     color: #000;
 }
 
@@ -191,14 +194,14 @@ hr {
 
 footer {
     height: 150px;
-    background-color:#fff9e3;
+    background-color: #fff9e3;
 }
 
 .social-networks {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -235,7 +238,7 @@ footer {
     column-gap: 0;
 }
 
-#photos > img {
+#photos>img {
     width: 100%;
 }
 
@@ -275,7 +278,7 @@ footer {
     padding: 30px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -331,14 +334,14 @@ footer {
     padding: 30px;
 }
 
-.contact-us-form > h2 {
+.contact-us-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
 
-input[type="radio"]{
+input[type="radio"] {
     margin: 0 10px 0 10px;
-  }
+}
 
 /* Contact Us Choir Director Section */
 
@@ -354,7 +357,8 @@ input[type="radio"]{
     margin: 30px 25%;
     background-image: url("../images/cross1.jfif");
     padding: 20px;
-    color: #fff;;
+    color: #fff;
+    ;
 }
 
 #circle-container {
@@ -397,7 +401,7 @@ input[type="radio"]{
         font-size: 95%;
     }
 
-     .left-about-heading {
+    .left-about-heading {
         padding-left: 400px;
     }
 
@@ -406,7 +410,7 @@ input[type="radio"]{
     }
 
 
-       
+
     #services div {
         width: 100%;
         clear: both;
@@ -428,7 +432,7 @@ input[type="radio"]{
     #sign-up {
         text-align: center;
     }
-    
+
     #sign-up .criteria {
         display: inline-block;
         padding: 50px;
@@ -440,44 +444,44 @@ input[type="radio"]{
         float: left;
         margin-left: 400px;
     }
-    
+
     #sign-up ul {
         list-style-type: none;
-    }   
     }
+}
 
 
-    /* Media query for large screen sizes from 1430px wide and down  */
+/* Media query for large screen sizes from 1430px wide and down  */
 
 @media screen and (max-width: 1430px) {
 
-   .left-about-heading {
+    .left-about-heading {
         padding-left: 350px;
     }
-    }
+}
 
 /* Media query for large screen sizes from 1310px wide and down  */
 
 @media screen and (max-width: 1310px) {
-    
+
     #tagline {
         margin-right: -100px;
         width: 30%;
         font-size: 95%;
     }
 
-     .left-about-heading {
+    .left-about-heading {
         padding-left: 300px;
     }
 
-    
+
     /*Gallery sign up form */
 
     #sign-up {
         width: 100%;
         height: 650px;
     }
-    
+
     .criteria {
         margin-left: 350px;
     }
@@ -486,7 +490,7 @@ input[type="radio"]{
 /* Media query for large screen sizes from 1260px wide and down  */
 
 @media screen and (max-width: 1260px) {
-    
+
     .left-about-heading {
         padding-left: 300px;
     }
@@ -494,7 +498,7 @@ input[type="radio"]{
     #right-about {
         padding-right: 250px;
     }
-       
+
     /*Gallery sign up form */
 
     #sign-up {
@@ -506,8 +510,8 @@ input[type="radio"]{
         height: 100px;
         float: left;
         margin-left: 300px;
-    } 
     }
+}
 
 /* Media query for large screen sizes from 1060px wide and down  */
 
@@ -517,7 +521,7 @@ input[type="radio"]{
     }
 
     #choir-image {
-        height:500px
+        height: 500px
     }
 
     #tagline {
@@ -540,7 +544,7 @@ input[type="radio"]{
         padding-right: 0px;
         padding-left: 200px;
         margin: 0 auto;
-   }
+    }
 
     .left-about-heading {
         padding-left: 100px;
@@ -548,9 +552,9 @@ input[type="radio"]{
 
     /*Gallery sign up form */
 
-   .criteria {
-       margin-left: 200px;
-   }
+    .criteria {
+        margin-left: 200px;
+    }
 
     /* Background image of the director */
     #directors {
@@ -561,14 +565,14 @@ input[type="radio"]{
 
 /* Media query for medium screen sizes from 960px wide and down */
 @media screen and (max-width: 960px) {
-    
+
     #menu {
         clear: left;
         float: left;
         margin-left: 20px;
         margin-bottom: 20px;
         line-height: 25px;
-        }
+    }
 
     #tagline {
         left: 30px;
@@ -583,7 +587,7 @@ input[type="radio"]{
         background-size: cover;
     }
 
-    #welcome > p {
+    #welcome>p {
         width: 90%;
         padding-left: 40px;
     }
@@ -591,8 +595,8 @@ input[type="radio"]{
     #about-us {
         width: 100%;
         height: 950px;
-        }
-    
+    }
+
     #left-about {
         padding-left: 150px;
     }
@@ -620,7 +624,7 @@ input[type="radio"]{
         margin-left: 150px;
     }
 
-   
+
 }
 
 /* Media query for medium screen sizes from 770px wide and down */
@@ -638,8 +642,8 @@ input[type="radio"]{
     #about-us {
         height: 900px;
         font-size: 80%;
-        }
-    
+    }
+
     #left-about {
         padding-left: 80px;
         width: 85%;
@@ -676,18 +680,19 @@ input[type="radio"]{
         padding-top: 10px;
         margin: 20px;
     }
-    
-    #logo, #menu {
+
+    #logo,
+    #menu {
         line-height: 40px;
     }
-    
+
     #menu {
         font-size: 80%;
         letter-spacing: 1px;
         margin-bottom: 10px;
         margin-left: 25px;
-        
-       }
+
+    }
 
     #choir-outer {
         height: 380px;
@@ -720,7 +725,7 @@ input[type="radio"]{
         padding: 30px 0px 10px 0px;
     }
 
-    #welcome > p {
+    #welcome>p {
         padding-left: 10px;
     }
 
@@ -826,6 +831,7 @@ input[type="radio"]{
         letter-spacing: 2px;
         font-size: 120%;
     }
+
     #directors {
         margin: 10%;
         font-size: 80%;
@@ -853,5 +859,3 @@ input[type="radio"]{
         background: url("../images/dirimage1.jpg") no-repeat center center;
     }
 }
-
-
