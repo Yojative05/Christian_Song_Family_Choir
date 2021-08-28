@@ -712,4 +712,16 @@ input[type="radio"] {
     footer {
         height: 100px;
     }
+
+    /* Contact Us page */
+
+    .contact-details {
+        background-image: unset;
+    }
+
+    #contact-info {
+        float: right;
+        padding: 20px;
+        margin-top: 50px;
+    }
 }
