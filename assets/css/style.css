@@ -725,3 +725,202 @@ input[type="radio"] {
         margin-top: 50px;
     }
 }
+
+/* Media query for small screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
+
+    #logo {
+        padding-top: 10px;
+        margin: 20px;
+    }
+
+    #logo,
+    #menu {
+        line-height: 40px;
+    }
+
+    #menu {
+        font-size: 80%;
+        letter-spacing: 1px;
+        margin-bottom: 10px;
+        margin-left: 25px;
+
+    }
+
+    hr {
+        display: none;
+    }
+
+    #choir-outer {
+        height: 380px;
+    }
+
+    #choir-image {
+        height: 290px;
+        margin-left: 0px;
+        width: 95%;
+        margin: 6px;
+        background-position: right;
+    }
+
+    #tagline {
+        height: 50px;
+        font-size: 50%;
+        width: 80%;
+        letter-spacing: 2px;
+        bottom: 15px;
+        padding: 5px;
+        margin: 0px;
+        text-align: center;
+        left: 20px;
+    }
+
+    /* Home page-about us section */
+
+    #about-us {
+        height: 650px;
+        font-size: 60%;
+    }
+
+    #welcome {
+        padding: 30px 0px 10px 0px;
+    }
+
+    #welcome>p {
+        padding-left: 10%;
+        width: 80%;
+    }
+
+    #left-about {
+        padding-left: 0px;
+        padding: 20px;
+        margin: 0% 5%;
+    }
+
+    .left-about-heading {
+        padding: 0px;
+        margin: 10px 0px;
+        width: 100%;
+        line-height: 15px;
+    }
+
+    #right-about {
+        width: 85%;
+        padding-top: 0px;
+        padding-left: 0px;
+        padding: 20px;
+        margin-right: 0; 
+    }
+
+    .right-about-heading {
+        padding: 0px;
+        margin: 10px 0px;
+        width: 100%;
+        line-height: 15px;
+        float: none;
+    }
+
+    /* Home Page-services */
+
+    #services {
+        font-size: 65%;
+    }
+
+    footer {
+        height: 80px;
+    }
+
+    /* The Choir Page */
+    #photos {
+        column-count: 1;
+        padding: 20px;
+    }
+
+    #gallery-title {
+        font-size: 120%;
+    }
+
+    #sign-up {
+        height: 400px;
+    }
+
+    #sign-up .criteria {
+        padding: 0px;
+    }
+
+    .criteria {
+        float: none;
+        font-size: 75%;
+        padding: 20px;
+        margin: 20px 0px;
+        height: 170px;
+        width: 80%;
+    }
+
+    #form {
+        font-size: 80%;
+    }
+
+    .form-section {
+        height: 400px;
+    }
+
+    .signup-form {
+        margin: 20px;
+        left: 10px;
+    }
+
+    /* Contact us section */
+    .contact-us-section {
+        height: 500px;
+    }
+
+    .contact-us-form {
+        left: 10px;
+        font-size: 60%;
+        margin: 20px;
+        padding: 20px;
+    }
+
+    input[type="radio"] {
+        margin: 0px 5px;
+    }
+
+    .join-button {
+        font-size: 150%;
+        padding: 10px 20px;
+    }
+
+    #director-heading {
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
+
+    #directors {
+        margin: 10%;
+        font-size: 80%;
+    }
+
+    #circle-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    #directors h2 {
+        padding-top: 20px;
+        color: #fff;
+    }
+
+    #directors {
+        font-size: 60%;
+        background-image: url("../images/cross1new.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
+        padding: 10px;
+    }
+
+    #circle1-bg {
+        background: url("../images/dirimage1.jpg") no-repeat center center;
+    }
+}
+
