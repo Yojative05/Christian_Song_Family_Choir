@@ -685,18 +685,31 @@ input[type="radio"] {
         width: 90%;
     }
 
-    
+    /* The Choir page-gallery */
+
+    #photos {
+        column-count: 2;
+    }
+
+    /* The Choir page-sign up criteria */
+
+    #sign-up {
+        height: 600px;
+    }
+
+    .criteria {
+        height: 200px;
+        margin-left: 50px;
+        width: 70%;
+    }
+
+    #sign-up .criteria {
+        padding: 30px 50px;
+    }
 
     /* footer */
 
     footer {
         height: 100px;
-    }
-
-    /*Gallery images and sign up form */
-
-    .criteria {
-        height: 100px;
-        margin-left: 150px;
     }
 }
