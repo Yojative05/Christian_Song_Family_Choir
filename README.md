@@ -9,7 +9,8 @@ The Christian Song Family Choir website is about an independent choir organisati
 ##	Design
 
 ###	    Colour Scheme
-        -   The two main colours used are the shades of blue – namely light blue, rgba(137, 196, 244), #00008b and blue – and ivory. This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
+        -   The two main colours used are the shades of blue – namely light blue, rgba(137, 196, 244), #00008b and blue – and #fff9e3, a shade of ivory. 
+        This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
         
 ###	    Typography
         -   The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
@@ -26,37 +27,58 @@ Existing Features:
 ###	    Navigation Bar
         -   Featured on all three pages, the full responsive navigation bar includes links to the Home page, the Choir page, and the Contact Us page and is identical in each page to allow for easy navigation.
         -   This section will help the user to navigate easily between the pages in any device used without using the gadgets back button. And they will be prompted on which page they are currently on.
+
+![Navigation Bar](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/menunav.JPG)
  
 ###	    The landing page image
         -   The landing includes a light blue background color that is consistent throughout the pages as a theme color, a photograph of the choir members and a tagline text of the choir’s mission.
+
+![Landing Page Image](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/choirimage1.JPG)
 
 ###	    About Us Section
         -   The about us section gives a brief description of the choir organization. The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
         -   This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
  
+ ![About Us Section](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/aboutus1.JPG)
+
 ###	    Our Services section
         -   This section will allow the user to see exactly when and where the services occur.
         -   The first two are called Eucharistic celebrations and it is about the churches serviced by the choir, as well as the day and time.
         -   The last two are called Special celebrations as it tells the users that they could avail of the choirs services per appointment.
+
+![Our Services Section](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/ourservices.JPG)
  
 ###	    The Footer
         -   The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. When the user click the icons they will open to a new tab to allow easy navigation for the user.
         -   The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. The footer can be seen in all the pages of the site.
+
+![Footer](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/thefooter.JPG)
  
 ###	    The Choir 
         -   The choir page is comprised of two sections.
         -   The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. This shows the church services, rehearsals and special celebrations like weddings. Activities outside the church could also be seen, such as community events and team building exercises.
         -   This section shows the user the active apostleship that the choir intend to implement and can entice the user to join the choir.
 
+![The Choir Gallery](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/gallery1.JPG)
+
+        -   The second section gives a brief description of the choir director name and brief job description.
+
+![The Choir Director](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/thedirector.JPG)
+
         -   The sign up section is located below the gallery section within the choir page and this gives the user the opportunity to join the choir. It has the requirements needed and the form.
         -   The requirements is further divided into two: a description of choir member joining, and the needed files/paper to be passed the person joining.
+    
+![The Criteria for joining the Choir](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/signup1.JPG)    
  
         -   The sign up form details that there will be an audition and the schedule will be given when the person submit their full name and email address.
+
+![The Choir Sign UP Form](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/choirsignupform.JPG) 
  
 ###	    The Contact Us Page
-        -   This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director.
- 
-        -   The second section gives a brief description of the choir director name and brief job description.
+        -   This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director will be able to contact them.
+        -   The contact details of the choir can also be seen with a background image of one of the activities that the choir members do.
+
+![Contact Us form and details](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/cotactformandimg.JPG)
  
 ###     Features Left to Implement
         -   Grouping of the gallery images to church service, special occasions, and community volunteering activities, possibly as a slideshow or in their separate folders within a page.
@@ -93,12 +115,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         o	No errors were returned when passing through the official W3C validator.
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyojative05.github.io%2FChristian_Song_Family_Choir%2F)
 
+![Markup Validator](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/htmlresult1.JPG)
+
 ###     CSS
         o	No errors were found when passing through the official (Jigsaw) validator.
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fyojative05.github.io%2FChristian_Song_Family_Choir%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![CSS Validator](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/cssresult1.JPG)
  
 ###     Accessibility
         o	I confirmed that the site has been tested for accessibility using the lighthouse in devtools.
+
+![Lighthouse Result](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/lighthousereport.JPG)
  
 ## Bugs
 Solved Bugs
