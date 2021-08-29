@@ -4,19 +4,17 @@
 
 The Christian Song Family Choir website is about an independent choir organisation that services Catholic Churches in the Isle of Man, most particularly the city of Douglas. It’s main purpose is to help make Christian faith stronger by “Sharing God’s love though music and active apostleship.” The website aims to provide information on the purpose of the choir, the activities done in and outside of the church, recruitment of members and the services being offered. The website wants to showcase the talent of the choir members and showing it to the general public, especially Roman Catholic parishioners. And the being a member of the choir targets the ages 12 to 20 years old.
 
- <h2 align="center"><img src=""></h2>
-
 ##	Design
 
 ###	    Colour Scheme
-        	The two main colours used are the shades of blue – namely light blue, rgba(137, 196, 244), #00008b and blue – and ivory. This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
+        -   The two main colours used are the shades of blue – namely light blue, rgba(137, 196, 244), #00008b and blue – and ivory. This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
         
 ###	    Typography
-        	The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
-        	For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. Poppins is clean and legible and compliments Style Script very well.
+        -   The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
+        -   For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. Poppins is clean and legible and compliments Style Script very well.
 
 ###	    Imagery
-        	Imagery is important and captures a user’s attention. The large, background hero image is designed to be striking and depicts what the page is all about. The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
+        -   Imagery is important and captures a user’s attention. The large, background hero image is designed to be striking and depicts what the page is all about. The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
 
 ## Features
 
@@ -24,42 +22,42 @@ The website is comprised of three pages/sections that has their own purposes and
 Existing Features:
 
 ###	    Navigation Bar
-        o	Featured on all three pages, the full responsive navigation bar includes links to the Home page, the Choir page, and the Contact Us page and is identical in each page to allow for easy navigation.
-        o	This section will help the user to navigate easily between the pages in any device used without using the gadgets back button. And they will be prompted on which page they are currently on.
+        -   Featured on all three pages, the full responsive navigation bar includes links to the Home page, the Choir page, and the Contact Us page and is identical in each page to allow for easy navigation.
+        -   This section will help the user to navigate easily between the pages in any device used without using the gadgets back button. And they will be prompted on which page they are currently on.
  
 ###	    The landing page image
-        o	The landing includes a light blue background color that is consistent throughout the pages as a theme color, a photograph of the choir members and a tagline text of the choir’s mission.
+        -   The landing includes a light blue background color that is consistent throughout the pages as a theme color, a photograph of the choir members and a tagline text of the choir’s mission.
 
 ###	    About Us Section
-        o	The about us section gives a brief description of the choir organization. The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
-        o	This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
+        -   The about us section gives a brief description of the choir organization. The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
+        -   This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
  
 ###	    Our Services section
-        o	This section will allow the user to see exactly when and where the services occur.
-        o	The first two are called Eucharistic celebrations and it is about the churches serviced by the choir, as well as the day and time.
-        o	The last two are called Special celebrations as it tells the users that they could avail of the choirs services per appointment.
+        -   This section will allow the user to see exactly when and where the services occur.
+        -   The first two are called Eucharistic celebrations and it is about the churches serviced by the choir, as well as the day and time.
+        -   The last two are called Special celebrations as it tells the users that they could avail of the choirs services per appointment.
  
 ###	    The Footer
-        o	The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. When the user click the icons they will open to a new tab to allow easy navigation for the user.
-        o	The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. The footer can be seen in all the pages of the site.
+        -   The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. When the user click the icons they will open to a new tab to allow easy navigation for the user.
+        -   The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. The footer can be seen in all the pages of the site.
  
 ###	    The Choir 
-        o	The choir page is comprised of two sections.
-        o	The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. This shows the church services, rehearsals and special celebrations like weddings. Activities outside the church could also be seen, such as community events and team building exercises.
-        o	This section shows the user the active apostleship that the choir intend to implement and can entice the user to join the choir.
+        -   The choir page is comprised of two sections.
+        -   The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. This shows the church services, rehearsals and special celebrations like weddings. Activities outside the church could also be seen, such as community events and team building exercises.
+        -   This section shows the user the active apostleship that the choir intend to implement and can entice the user to join the choir.
 
-        o	The sign up section is located below the gallery section within the choir page and this gives the user the opportunity to join the choir. It has the requirements needed and the form.
-        o	The requirements is further divided into two: a description of choir member joining, and the needed files/paper to be passed the person joining.
+        -   The sign up section is located below the gallery section within the choir page and this gives the user the opportunity to join the choir. It has the requirements needed and the form.
+        -   The requirements is further divided into two: a description of choir member joining, and the needed files/paper to be passed the person joining.
  
-        o	The sign up form details that there will be an audition and the schedule will be given when the person submit their full name and email address.
+        -   The sign up form details that there will be an audition and the schedule will be given when the person submit their full name and email address.
  
 ###	    The Contact Us Page
-        o	This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director.
+        -   This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director.
  
-        o	The second section gives a brief description of the choir director name and brief job description.
+        -   The second section gives a brief description of the choir director name and brief job description.
  
 ###     Features Left to Implement
-        •	Grouping of the gallery images to church service, special occasions, and community volunteering activities, possibly as a slideshow or in their separate folders within a page.
+        -   Grouping of the gallery images to church service, special occasions, and community volunteering activities, possibly as a slideshow or in their separate folders within a page.
 
 ## Technologies Used
 
@@ -108,12 +106,12 @@ Solved Bugs
 
 ## Deployment
 •	The site was deployed to GitHub pages. The steps to deploy are as follows:
-o	Log in to GitHub and locate the GitHub Repository.
-o	In the GitHub repository, navigate to the Settings tab.
-o	Scroll down to search for the Section that says GitHub pages.
-o	A message written there saying that GitHub pages has its own dedicated tab and will tell you to click the link.
-o	From the source section drop-down menu, select the Main Branch and click save.
-o	Once the main branch has been selected, the page will be automatically refreshed with a check beside the link to indicate the successful deployment.
+1.  Log in to GitHub and locate the GitHub Repository.
+2.  In the GitHub repository, navigate to the Settings tab.
+3.  Scroll down to search for the Section that says GitHub pages.
+4.  A message written there saying that GitHub pages has its own dedicated tab and will tell you to click the link.
+5.  From the source section drop-down menu, select the Main Branch and click save.
+6.  Once the main branch has been selected, the page will be automatically refreshed with a check beside the link to indicate the successful deployment.
 The live link can be found here - https://yojative05.github.io/Christian_Song_Family_Choir/
 
 ## Making a Local Clone
