@@ -7,75 +7,77 @@ The Christian Song Family Choir website is about an independent choir organisati
  <h2 align="center"><img src=""></h2>
 
 ##	Design
-###	Colour Scheme
-	The two main colours used are the shades of blue – namely light blue, rgba(137, 196, 244), #00008b and blue – and ivory. This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
-###	Typography
-	The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
-	For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. Poppins is clean and legible and compliments Style Script very well.
-###	Imagery
-	Imagery is important and captures a user’s attention. The large, background hero image is designed to be striking and depicts what the page is all about. The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
+
+###	    Colour Scheme
+        	The two main colours used are the shades of blue – namely light blue, rgba(137, 196, 244), #00008b and blue – and ivory. This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
+        
+###	    Typography
+        	The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
+        	For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. Poppins is clean and legible and compliments Style Script very well.
+
+###	    Imagery
+        	Imagery is important and captures a user’s attention. The large, background hero image is designed to be striking and depicts what the page is all about. The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
 
 ## Features
+
 The website is comprised of three pages/sections that has their own purposes and discussions.
-Existing Features
-###	Navigation Bar
-o	Featured on all three pages, the full responsive navigation bar includes links to the Home page, the Choir page, and the Contact Us page and is identical in each page to allow for easy navigation.
-o	This section will help the user to navigate easily between the pages in any device used without using the gadgets back button. And they will be prompted on which page they are currently on.
- 
-###	The landing page image
-o	The landing includes a light blue background color that is consistent throughout the pages as a theme color, a photograph of the choir members and a tagline text of the choir’s mission.
+Existing Features:
 
+###	    Navigation Bar
+        o	Featured on all three pages, the full responsive navigation bar includes links to the Home page, the Choir page, and the Contact Us page and is identical in each page to allow for easy navigation.
+        o	This section will help the user to navigate easily between the pages in any device used without using the gadgets back button. And they will be prompted on which page they are currently on.
  
-###	About Us Section
-o	The about us section gives a brief description of the choir organization. The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
-o	This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
- 
+###	    The landing page image
+        o	The landing includes a light blue background color that is consistent throughout the pages as a theme color, a photograph of the choir members and a tagline text of the choir’s mission.
 
-###	Our Services section
-o	This section will allow the user to see exactly when and where the services occur.
-o	The first two are called Eucharistic celebrations and it is about the churches serviced by the choir, as well as the day and time.
-o	The last two are called Special celebrations as it tells the users that they could avail of the choirs services per appointment.
+###	    About Us Section
+        o	The about us section gives a brief description of the choir organization. The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
+        o	This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
  
-###	The Footer
-o	The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. When the user click the icons they will open to a new tab to allow easy navigation for the user.
-o	The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. The footer can be seen in all the pages of the site.
+###	    Our Services section
+        o	This section will allow the user to see exactly when and where the services occur.
+        o	The first two are called Eucharistic celebrations and it is about the churches serviced by the choir, as well as the day and time.
+        o	The last two are called Special celebrations as it tells the users that they could avail of the choirs services per appointment.
  
-###	The Choir 
-o	The choir page is comprised of two sections.
-o	The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. This shows the church services, rehearsals and special celebrations like weddings. Activities outside the church could also be seen, such as community events and team building exercises.
-o	This section shows the user the active apostleship that the choir intend to implement and can entice the user to join the choir.
+###	    The Footer
+        o	The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. When the user click the icons they will open to a new tab to allow easy navigation for the user.
+        o	The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. The footer can be seen in all the pages of the site.
+ 
+###	    The Choir 
+        o	The choir page is comprised of two sections.
+        o	The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. This shows the church services, rehearsals and special celebrations like weddings. Activities outside the church could also be seen, such as community events and team building exercises.
+        o	This section shows the user the active apostleship that the choir intend to implement and can entice the user to join the choir.
 
+        o	The sign up section is located below the gallery section within the choir page and this gives the user the opportunity to join the choir. It has the requirements needed and the form.
+        o	The requirements is further divided into two: a description of choir member joining, and the needed files/paper to be passed the person joining.
  
-o	The sign up section is located below the gallery section within the choir page and this gives the user the opportunity to join the choir. It has the requirements needed and the form.
-o	The requirements is further divided into two: a description of choir member joining, and the needed files/paper to be passed the person joining.
+        o	The sign up form details that there will be an audition and the schedule will be given when the person submit their full name and email address.
  
-o	The sign up form details that there will be an audition and the schedule will be given when the person submit their full name and email address.
+###	    The Contact Us Page
+        o	This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director.
  
-
-###	The Contact Us Page
-o	This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director.
+        o	The second section gives a brief description of the choir director name and brief job description.
  
-o	The second section gives a brief description of the choir director name and brief job description.
- 
-### Features Left to Implement
-•	Grouping of the gallery images to church service, special occasions, and community volunteering activities, possibly as a slideshow or in their separate folders within a page.
+###     Features Left to Implement
+        •	Grouping of the gallery images to church service, special occasions, and community volunteering activities, possibly as a slideshow or in their separate folders within a page.
 
 ## Technologies Used
-### Languages Used
-•	HTML5
-•	CSS3
 
-### Frameworks, Libraries & Programs Used
-1.	Google Fonts:
-o	Google fonts were used to import the ‘Style Script' and ‘Poppins’ fonts into the style.css file which is used on all pages throughout the project.
-2.	Font Awesome:
-o	Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-3.	Git
-o	Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-4.	GitHub:
-o	GitHub is used to store the projects code after being pushed from Git.
-5.	Microsoft paint:
-o	Microsoft paint was used to resize images for the website.
+###     Languages Used
+        •	[HTML5](https://en.wikipedia.org/wiki/HTML5)
+        •   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+###     Frameworks, Libraries & Programs Used
+1.	[Google Fonts:](https://fonts.google.com/)
+	- Google fonts were used to import the ‘Style Script' and ‘Poppins’ fonts into the style.css file which is used on all pages throughout the project.
+2.	[Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+3.	[Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+4.	[GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+5.	[Microsoft paint:](https://support.microsoft.com/en-gb/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9)
+    - Microsoft paint was used to resize images for the website.
 
 ## Testing
 •	I have tested that this website works in different browsers such as Google Chrome and Microsoft Edge.
@@ -86,15 +88,17 @@ o	Microsoft paint was used to resize images for the website.
 
 ## Validator Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-### HTML
-o	No errors were returned when passing through the official W3C validator - Results
 
+###     HTML
+        o	No errors were returned when passing through the official W3C validator.
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyojative05.github.io%2FChristian_Song_Family_Choir%2F)
+
+###     CSS
+        o	No errors were found when passing through the official (Jigsaw) validator.
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fyojative05.github.io%2FChristian_Song_Family_Choir%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
  
-### CSS
-o	No errors were found when passing through the official (Jigsaw) validator - Results
- 
-### Accessibility
-o	I confirmed that the site has been tested for accessibility using the lighthouse in devtools.
+###     Accessibility
+        o	I confirmed that the site has been tested for accessibility using the lighthouse in devtools.
  
 ## Bugs
 Solved Bugs
@@ -113,21 +117,26 @@ o	Once the main branch has been selected, the page will be automatically refresh
 The live link can be found here - https://yojative05.github.io/Christian_Song_Family_Choir/
 
 ## Making a Local Clone
-1.	Log in to GitHub and navigate to the main page of the GitHub Repository.
+1.	Log in to GitHub and navigate to the main page of the [GitHub Repository](https://github.com/).
 2.	Above the list of files, click  Code.
 3.	To clone the repository using HTTPS, under "Clone with HTTPS", click  the icon beside it or click the box with the link and copy it. 
 4.	Open Git Bash.
 5.	Change the current working directory to the location where you want the cloned directory to be made.
-6.	Type git clone, and then paste the URL you copied in Step 3.
+6.	TType `git clone`, and then paste the URL you copied in Step 3.
+```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 7.	Press Enter. Your local clone will be created.
+
+```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
-Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+```
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 ### Content
