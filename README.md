@@ -4,6 +4,8 @@
 
 The Christian Song Family Choir website is about an independent choir organisation that services Catholic Churches in the Isle of Man, most particularly the city of Douglas. It’s main purpose is to help make Christian faith stronger by “Sharing God’s love though music and active apostleship.” The website aims to provide information on the purpose of the choir, the activities done in and outside of the church, recruitment of members and the services being offered. The website wants to showcase the talent of the choir members and showing it to the general public, especially Roman Catholic parishioners. And the being a member of the choir targets the ages 12 to 20 years old.
 
+![Responsive Design](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/responsivescreen.JPG)
+
 ##	Design
 
 ###	    Colour Scheme
