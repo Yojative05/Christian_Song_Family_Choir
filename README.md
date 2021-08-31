@@ -13,11 +13,14 @@ The Christian Song Family Choir website is about an independent choir organisati
         This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
         
 ###	    Typography
-        -   The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
-        -   For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. Poppins is clean and legible and compliments Style Script very well.
+        -   The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. 
+        Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
+        -   For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. 
+        Poppins is clean and legible and compliments Style Script very well.
 
 ###	    Imagery
-        -   Imagery is important and captures a user’s attention. The large, background hero image is designed to be striking and depicts what the page is all about. The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
+        -   Imagery is important and captures a user’s attention. The large, background hero image is designed to be striking and depicts what the page is all about. 
+        The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
 
 ## Features
 
@@ -36,7 +39,8 @@ Existing Features:
 ![Landing Page Image](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/choirimage1.JPG)
 
 ###	    About Us Section
-        -   The about us section gives a brief description of the choir organization. The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
+        -   The about us section gives a brief description of the choir organization. 
+        The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
         -   This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
  
  ![About Us Section](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/aboutus1.JPG)
@@ -49,14 +53,18 @@ Existing Features:
 ![Our Services Section](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/ourservices.JPG)
  
 ###	    The Footer
-        -   The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. When the user click the icons they will open to a new tab to allow easy navigation for the user.
-        -   The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. The footer can be seen in all the pages of the site.
+        -   The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. 
+        When the user click the icons they will open to a new tab to allow easy navigation for the user.
+        -   The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. 
+        The footer can be seen in all the pages of the site.
 
 ![Footer](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/thefooter.JPG)
  
 ###	    The Choir 
         -   The choir page is comprised of two sections.
-        -   The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. This shows the church services, rehearsals and special celebrations like weddings. Activities outside the church could also be seen, such as community events and team building exercises.
+        -   The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. 
+        This shows the church services, rehearsals and special celebrations like weddings. 
+        Activities outside the church could also be seen, such as community events and team building exercises.
         -   This section shows the user the active apostleship that the choir intend to implement and can entice the user to join the choir.
 
 ![The Choir Gallery](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/gallery1.JPG)
@@ -75,7 +83,9 @@ Existing Features:
 ![The Choir Sign UP Form](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/choirsignupform.JPG) 
  
 ###	    The Contact Us Page
-        -   This page will allows the user to contact the Christian Song Family Choir for the services they need. The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. The user will be asked to submit their full name and email address so the choir director will be able to contact them.
+        -   This page will allows the user to contact the Christian Song Family Choir for the services they need. 
+        The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. 
+        The user will be asked to submit their full name and email address so the choir director will be able to contact them.
         -   The contact details of the choir can also be seen with a background image of one of the activities that the choir members do.
 
 ![Contact Us form and details](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/cotactformandimg.JPG)
@@ -86,9 +96,9 @@ Existing Features:
 ## Technologies Used
 
 ###     Languages Used
-        •	[HTML5](https://en.wikipedia.org/wiki/HTML5)
-        •   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) - provides the content and structure for the website.
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - provides the styling.
+        
 ###     Frameworks, Libraries & Programs Used
 1.	[Google Fonts:](https://fonts.google.com/)
 	- Google fonts were used to import the ‘Style Script' and ‘Poppins’ fonts into the style.css file which is used on all pages throughout the project.
@@ -130,9 +140,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  
 ## Bugs
 Solved Bugs
-•	When I was positioning the main image it was not responding to the code given, hence I have to specify by attribute to get the size and position needed. I used this site to help me fix the problem, https://www.w3schools.com/CSSref/pr_background-position.asp.
-•	When aligning to center the requirements of becoming a choir member in the second page, for the media query, it was not responding to the code. I tried to search online but it wasn’t clear, so I asked for tutor support. And he said that it could probably be due to different overriding codes and the float that I placed. He discussed the solution and was able to fix the problem.
-•	When I deployed my project to GitHub and used the responsiveness site http://ami.responsivedesign.is/#, I discovered that in one of the images (laptop), my hero image and tagline was not responding well/distorted. Since I was using the laptop, I asked tutor support on how to do this, and they responded to my inquiry. Only then that I realize that the response of the site does not depend on a fixed value but on when the site gets broken when the screen size changes. Hence, I did some trials and was able to come up with the value for the screen. I also received help from Slack http://slack.com community to check and fix my code.
+- When I was positioning the main image it was not responding to the code given, hence I have to specify by attribute to get the size and position needed. 
+I used this site to help me fix the problem, https://www.w3schools.com/CSSref/pr_background-position.asp.
+- When aligning to center the requirements of becoming a choir member in the second page, for the media query, it was not responding to the code. 
+I tried to search online but it wasn’t clear, so I asked for tutor support. 
+And he said that it could probably be due to different overriding codes and the float that I placed. 
+He discussed the solution and was able to fix the problem.
+- When I deployed my project to GitHub and used the responsiveness site http://ami.responsivedesign.is/#, I discovered that in one of the images (laptop), my hero image and tagline was not responding well/distorted. Since I was using the laptop, I asked tutor support on how to do this, and they responded to my inquiry. Only then that I realize that the response of the site does not depend on a fixed value but on when the site gets broken when the screen size changes. Hence, I did some trials and was able to come up with the value for the screen. I also received help from Slack http://slack.com community to check and fix my code.
 
 ## Deployment
 •	The site was deployed to GitHub pages. The steps to deploy are as follows:
