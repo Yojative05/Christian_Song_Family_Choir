@@ -498,6 +498,17 @@ input[type="radio"] {
     }
 }
 
+/* Media query for large screen sizes from 1370px wide and down  */
+
+/* Gallery Sign up criteria */
+
+@media screen and (max-width: 1370px) {
+
+    #sign-up .criteria {
+        padding: 30px;
+    }
+}
+
 /* Media query for large screen sizes from 1280px wide and down  */
 
 @media screen and (max-width: 1280px) {
