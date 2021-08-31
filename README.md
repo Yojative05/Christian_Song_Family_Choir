@@ -204,11 +204,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 * The code used for the layout of the page, such as navigation, main image, social media links, the gallery, and the form was patterned from the Code Institute https://github.com/Yojative05/love-running Project.
 * The code used to style radio buttons is from https://stackoverflow.com/questions/12294367/html-radio-buttons-add-space-between-the-buttons-from-the-same-groupe.
 * To create a dropdown list, I referred to https://www.tutorialspoint.com/How-do-we-use-a-simple-drop-down-list-of-items-in-HTML-forms
+* Codes for positioning images were patterned from https://www.w3schools.com/CSSref/pr_background-position.asp.
 ### Media
 * The photo used on the ‘Home page’ and most of the gallery pictures in ‘The Choir’ page is taken from https://unsplash.com/ 
 * Other images used for the gallery section were taken from https://www.google.com/?gws_rd=ssl and https://www.pexels.com/ 
-* Codes for positioning images were patterned from https://www.w3schools.com/CSSref/pr_background-position.asp.
 ### Acknowledgement
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/). 
 * Special thanks to the Code Institute Tutor team for helping me out sort the code and fix the bugs for my project.
-* Special thanks to my mentor, Precious_mentor for directing me and making me focus on my priority tasks.
+* Special thanks to my mentor, [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for directing me and making me focus on my priority tasks.
 * Special thanks to the Slack Community, most specially to Stephen Darcy for his help in my media query codes.
