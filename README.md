@@ -116,6 +116,7 @@ The Christian Song Family Choir website is about an independent choir organisati
     - Microsoft paint was used to resize images for the website.
 
 ## Testing
+
 * I have tested that this website works in different browsers such as Google Chrome and Microsoft Edge.
 * I confirmed that the site can navigate between pages and that links in the footer opens in a new tab.
 * I confirmed that the project is responsive, appears decent and functions on all standard screen sizes using the devtools device toolbar.
@@ -123,6 +124,7 @@ The Christian Song Family Choir website is about an independent choir organisati
 * I have confirmed that the form works and will require the user to input entries in every field, will only accept correct email format, and the submit button works.
 
 ## Validator Testing
+
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 ### HTML
@@ -143,25 +145,26 @@ The Christian Song Family Choir website is about an independent choir organisati
 ![Lighthouse Result](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/lighthousereport.JPG)
 
 ## Responsiveness Test
+
 * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](http://ami.responsivedesign.is/?url=https%3A%2F%2F8000-amethyst-cat-l0o5q76b.ws-eu16.gitpod.io%2Findex.html#).
 
-|        | Moto G4 | Galaxy S5 | iPhone 5 | iPad | iPad Pro | Laptop 1024px| Laptop 1440px | Desktop 1600px |
-|--------|---------|-----------|----------|------|----------|--------------|---------------|----------------|
-| Render | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass           |
-| Images | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass           |
-| Links  | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass           |
+|        | Moto G4 | Galaxy S5 | iPhone 5 | iPad | iPad Pro | Laptop 1024px| Laptop 1440px | Desktop >1600px |
+|--------|---------|-----------|----------|------|----------|--------------|---------------|-----------------|
+| Render | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass            |
+| Images | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass            |
+| Links  | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass            |
 
 Note: On wide display types the contents of the site are restricted in width to 2000px. This helps the UX by not spreading the content too wide on the extra wide screens.
 
 ## Bugs
 Solved Bugs
 - When I was positioning the main image it was not responding to the code given, hence I have to specify by attribute to get the size and position needed. 
-I used this site to help me fix the problem, https://www.w3schools.com/CSSref/pr_background-position.asp.
+I used this site to help me fix the problem,[W3schools](https://www.w3schools.com/CSSref/pr_background-position.asp).
 - When aligning to center the requirements of becoming a choir member in the second page, for the media query, it was not responding to the code. 
 I tried to search online but it wasn’t clear, so I asked for tutor support. 
 And he said that it could probably be due to different overriding codes and the float that I placed. 
 He discussed the solution and was able to fix the problem.
-- When I deployed my project to GitHub and used the responsiveness site http://ami.responsivedesign.is/#, I discovered that in one of the images (laptop), my hero image and tagline was not responding well/distorted. Since I was using the laptop, I asked tutor support on how to do this, and they responded to my inquiry. Only then that I realize that the response of the site does not depend on a fixed value but on when the site gets broken when the screen size changes. Hence, I did some trials and was able to come up with the value for the screen. I also received help from Slack http://slack.com community to check and fix my code.
+- When I deployed my project to GitHub and used the responsiveness site [AMI responsive Design](http://ami.responsivedesign.is/#), I discovered that in one of the images (laptop), my hero image and tagline was not responding well/distorted. Since I was using the laptop, I asked tutor support on how to do this, and they responded to my inquiry. Only then that I realize that the response of the site does not depend on a fixed value but on when the site gets broken when the screen size changes. Hence, I did some trials and was able to come up with the value for the screen. I also received help from [Slack](http://slack.com) community to check and fix my code.
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -171,7 +174,7 @@ He discussed the solution and was able to fix the problem.
 4.  A message written there saying that GitHub pages has its own dedicated tab and will tell you to click the link.
 5.  From the source section drop-down menu, select the Main Branch and click save.
 6.  Once the main branch has been selected, the page will be automatically refreshed with a check beside the link to indicate the successful deployment.
-The live link can be found here - https://yojative05.github.io/Christian_Song_Family_Choir/
+The live link can be found here - [Christian Song Family Choir](https://yojative05.github.io/Christian_Song_Family_Choir/)
 
 ## Making a Local Clone
 1.  Log in to GitHub and navigate to the main page of the [GitHub Repository](https://github.com/).
@@ -197,17 +200,17 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 ### Content
-* The idea for the tagline was taken from the Sacred Heart Catholic Church Website, https://sacredheartwdm.org/
-* The info for the first two parts of the services section was taken from the Roman Catholic Church Isle of Man site, https://manxcatholic.org/
-* The icons in the footer were taken from Font Awesome
+* The idea for the tagline was taken from the [Sacred Heart Catholic Church Website](https://sacredheartwdm.org/)
+* The info for the first two parts of the services section was taken from the [Roman Catholic Church Isle of Man](https://manxcatholic.org/)
+* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 ### Code
-* The code used for the layout of the page, such as navigation, main image, social media links, the gallery, and the form was patterned from the Code Institute https://github.com/Yojative05/love-running Project.
-* The code used to style radio buttons is from https://stackoverflow.com/questions/12294367/html-radio-buttons-add-space-between-the-buttons-from-the-same-groupe.
-* To create a dropdown list, I referred to https://www.tutorialspoint.com/How-do-we-use-a-simple-drop-down-list-of-items-in-HTML-forms
-* Codes for positioning images were patterned from https://www.w3schools.com/CSSref/pr_background-position.asp.
+* The code used for the layout of the page, such as navigation, main image, social media links, the gallery, and the form was patterned from the Code Institute, [Love Running](https://github.com/Yojative05/love-running) Project.
+* The code used to style radio buttons is from [Stack Overflow](https://stackoverflow.com/questions/12294367/html-radio-buttons-add-space-between-the-buttons-from-the-same-groupe).
+* To create a dropdown list, I referred to [Tutorialspoint](https://www.tutorialspoint.com/How-do-we-use-a-simple-drop-down-list-of-items-in-HTML-forms)
+* Codes for positioning images were patterned from [w3schools](https://www.w3schools.com/CSSref/pr_background-position.asp).
 ### Media
-* The photo used on the ‘Home page’ and most of the gallery pictures in ‘The Choir’ page is taken from https://unsplash.com/ 
-* Other images used for the gallery section were taken from https://www.google.com/?gws_rd=ssl and https://www.pexels.com/ 
+* The photo used on the ‘Home page’ and most of the gallery pictures in ‘The Choir’ page is taken from [unsplash](https://unsplash.com/) 
+* Other images used for the gallery section were taken from [google images](https://images.google.co.uk/) and [pexels](https://www.pexels.com/) 
 ### Acknowledgement
 The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/). 
 * Special thanks to the Code Institute Tutor team for helping me out sort the code and fix the bugs for my project.
