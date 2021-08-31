@@ -6,20 +6,20 @@ The Christian Song Family Choir website is about an independent choir organisati
 
 ![Responsive Design](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/responsivescreen.JPG)
 
-##	Design
+## Design
 
-###	    Colour Scheme
+### Colour Scheme
 * The two main colours used are the shades of blue. 
   * These are light blue, rgba(137, 196, 244), #00008b and blue – and #fff9e3, a shade of ivory. 
 * This colours are chosen as they closely resemble the colours worn by the Mother of the Catholic Church.
         
-###	    Typography
+### Typography
 * The Style Script font is the main font used for the header, headings 1 and 2 with Verdana as the fallback font in case for any reason the font is not being imported correctly into the site. 
 * Style Script is a nice cursive form, being cursive it depicts olden calligraphy style for Churches.
 * For the rest of the body text, Poppins font is used with Sans Serif as the fallback font. 
 * Poppins is clean and legible and compliments Style Script very well.
 
-###	    Imagery
+### Imagery
 * Imagery is important and captures a user’s attention.
   * The large, background hero image is designed to be striking and depicts what the page is all about. 
 * The image used is a highlight of the activities done by a choir, which depicts being a proud and active member of the church.
@@ -29,32 +29,32 @@ The Christian Song Family Choir website is about an independent choir organisati
 * The website is comprised of three pages/sections that has their own purposes and discussions.
   * Existing Features:
 
-###	    Navigation Bar
+### Navigation Bar
 * Featured on all three pages, the full responsive navigation bar includes links to the Home page, the Choir page, and the Contact Us page and is identical in each page to allow for easy navigation.
 * This section will help the user to navigate easily between the pages in any device used without using the gadgets back button. And they will be prompted on which page they are currently on.
 
 ![Navigation Bar](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/menunav.JPG)
  
-###	    The landing page image
+### The landing page image
 * The landing includes a light blue background color that is consistent throughout the pages as a theme color, a photograph of the choir members and a tagline text of the choir’s mission.
 
 ![Landing Page Image](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/choirimage1.JPG)
 
-###	    About Us Section
+### About Us Section
 * The about us section gives a brief description of the choir organization. 
 * The section also allows the user to see what kind of members the choir has, the musical instruments played, the kind of music they sing and perform and their activities inside and outside of the Church.
 * This can entice the user to join as a member of the choir and be curious on the different activities that the choir perform in the community.
  
  ![About Us Section](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/aboutus1.JPG)
 
-###	    Our Services section
+### Our Services section
 * This section will allow the user to see exactly when and where the services occur.
 * The first two are called Eucharistic celebrations and it is about the churches serviced by the choir, as well as the day and time.
 * The last two are called Special celebrations as it tells the users that they could avail of the choirs services per appointment.
 
 ![Our Services Section](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/ourservices.JPG)
  
-###	    The Footer
+### The Footer
 * The footer section includes four links to the relevant social media sites for the Christian Song Family Choir. 
   * When the user click the icons they will open to a new tab to allow easy navigation for the user.
 * The footer is an important addition to the site as it shows the activeness of the choir in social media and can keep the users engaged and connected. 
@@ -62,7 +62,7 @@ The Christian Song Family Choir website is about an independent choir organisati
 
 ![Footer](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/thefooter.JPG)
  
-###	    The Choir 
+### The Choir 
 * The choir page is comprised of two sections.
 * The choir gallery section  will provide the user with supporting images to see the variety of activities that the choir engage on. 
   * This shows the church services, rehearsals and special celebrations like weddings. 
@@ -86,7 +86,7 @@ The Christian Song Family Choir website is about an independent choir organisati
 
 ![The Choir Sign UP Form](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/choirsignupform.JPG) 
  
-###	    The Contact Us Page
+### The Contact Us Page
 * This page will allows the user to contact the Christian Song Family Choir for the services they need. 
   * The user will be able to specify if they would like the choir to sing, play music or both in an event that is specific for the user. 
   * The user will be asked to submit their full name and email address so the choir director will be able to contact them.
@@ -94,16 +94,16 @@ The Christian Song Family Choir website is about an independent choir organisati
 
 ![Contact Us form and details](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/cotactformandimg.JPG)
  
-###     Features Left to Implement
+### Features Left to Implement
 * Grouping of the gallery images to church service, special occasions, and community volunteering activities, possibly as a slideshow or in their separate folders within a page.
 
 ## Technologies Used
 
-###     Languages Used
+### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - provides the content and structure for the website.
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - provides the styling.
         
-###     Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used
 1.	[Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the ‘Style Script' and ‘Poppins’ fonts into the style.css file which is used on all pages throughout the project.
 2.	[Font Awesome:](https://fontawesome.com/)
@@ -125,23 +125,34 @@ The Christian Song Family Choir website is about an independent choir organisati
 ## Validator Testing
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-###     HTML
+### HTML
 * No errors were returned when passing through the official W3C validator.
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fyojative05.github.io%2FChristian_Song_Family_Choir%2F)
 
 ![Markup Validator](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/htmlresult1.JPG)
 
-###     CSS
+### CSS
 * No errors were found when passing through the official (Jigsaw) validator.
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fyojative05.github.io%2FChristian_Song_Family_Choir%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ![CSS Validator](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/cssresult1.JPG)
  
-###     Accessibility
+### Accessibility
 * I confirmed that the site has been tested for accessibility using the lighthouse in devtools.
 
 ![Lighthouse Result](https://github.com/Yojative05/Christian_Song_Family_Choir/blob/main/assets/images/lighthousereport.JPG)
- 
+
+## Responsiveness Test
+* The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](http://ami.responsivedesign.is/?url=https%3A%2F%2F8000-amethyst-cat-l0o5q76b.ws-eu16.gitpod.io%2Findex.html#).
+
+|        | Moto G4 | Galaxy S5 | iPhone 5 | iPad | iPad Pro | Laptop 1024px| Laptop 1440px | Desktop 1600px |
+|--------|---------|-----------|----------|------|----------|--------------|---------------|----------------|
+| Render | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass           |
+| Images | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass           |
+| Links  | pass    | pass      | pass     | pass | pass     | pass         | pass          | pass           |
+
+Note: On wide display types the contents of the site are restricted in width to 2000px. This helps the UX by not spreading the content too wide on the extra wide screens.
+
 ## Bugs
 Solved Bugs
 - When I was positioning the main image it was not responding to the code given, hence I have to specify by attribute to get the size and position needed. 
@@ -163,16 +174,16 @@ He discussed the solution and was able to fix the problem.
 The live link can be found here - https://yojative05.github.io/Christian_Song_Family_Choir/
 
 ## Making a Local Clone
-1.	Log in to GitHub and navigate to the main page of the [GitHub Repository](https://github.com/).
-2.	Above the list of files, click  Code.
-3.	To clone the repository using HTTPS, under "Clone with HTTPS", click  the icon beside it or click the box with the link and copy it. 
-4.	Open Git Bash.
-5.	Change the current working directory to the location where you want the cloned directory to be made.
-6.	TType `git clone`, and then paste the URL you copied in Step 3.
+1.  Log in to GitHub and navigate to the main page of the [GitHub Repository](https://github.com/).
+2.  Above the list of files, click  Code.
+3.  To clone the repository using HTTPS, under "Clone with HTTPS", click  the icon beside it or click the box with the link and copy it. 
+4.  Open Git Bash.
+5.  Change the current working directory to the location where you want the cloned directory to be made.
+6.  Type `git clone`, and then paste the URL you copied in Step 3.
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
-7.	Press Enter. Your local clone will be created.
+7.  Press Enter. Your local clone will be created.
 
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
@@ -188,15 +199,16 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Content
 * The idea for the tagline was taken from the Sacred Heart Catholic Church Website, https://sacredheartwdm.org/
 * The info for the first two parts of the services section was taken from the Roman Catholic Church Isle of Man site, https://manxcatholic.org/
-* The code used for the layout of the page, such as navigation, main image, social media links, the gallery, and the form was patterned from the Code Institute https://github.com/Yojative05/love-running Project.
 * The icons in the footer were taken from Font Awesome
+### Code
+* The code used for the layout of the page, such as navigation, main image, social media links, the gallery, and the form was patterned from the Code Institute https://github.com/Yojative05/love-running Project.
 * The code used to style radio buttons is from https://stackoverflow.com/questions/12294367/html-radio-buttons-add-space-between-the-buttons-from-the-same-groupe.
 * To create a dropdown list, I referred to https://www.tutorialspoint.com/How-do-we-use-a-simple-drop-down-list-of-items-in-HTML-forms
-* Special thanks to the Code Institute Tutor team for helping me out sort the code and fix the bugs for my project.
-* Special thanks to my mentor, Precious_mentor for directing me and making me focus on my priority tasks.
-* Special thanks to the Slack Community, most specially to Stephen Darcy for his help in my media query codes.
 ### Media
 * The photo used on the ‘Home page’ and most of the gallery pictures in ‘The Choir’ page is taken from https://unsplash.com/ 
 * Other images used for the gallery section were taken from https://www.google.com/?gws_rd=ssl and https://www.pexels.com/ 
 * Codes for positioning images were patterned from https://www.w3schools.com/CSSref/pr_background-position.asp.
-
+### Acknowledgement
+* Special thanks to the Code Institute Tutor team for helping me out sort the code and fix the bugs for my project.
+* Special thanks to my mentor, Precious_mentor for directing me and making me focus on my priority tasks.
+* Special thanks to the Slack Community, most specially to Stephen Darcy for his help in my media query codes.
